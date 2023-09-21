@@ -1,0 +1,1001 @@
+Id,CountryCode,CountryName,RegionName,RegionCode,UpperRegionName,UpperRegionCode,PlaceName,LocalityName,PostcodeName,NeighborhoodName,StreetName,Latitude,Longitude
+27708,NL,Nederland,Flevoland,FL,NULL,NULL,Emmeloord,NULL,"8304 GX","Emmeloord-de Zuidert",Morrastraat,52.704243,5.763132
+73816,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Zoetermeer,Noordhove,"2728 KT",Noordhove-Oost,"De Royschans",52.070526,4.526072
+11384,NL,Nederland,Noord-Holland,NH,NULL,NULL,Haarlem,Europawijk,"2034 PE",Kruidenbuurt,Nederlandlaan,52.365891,4.646344
+99019,NL,Nederland,Gelderland,GE,NULL,NULL,Nijmegen,NULL,"6571 GD",Kwakkenberg,Kwakkenbergweg,51.828587,5.894161
+110292,NL,Nederland,Gelderland,GE,NULL,NULL,Elst,Westeraam,"6662 CZ",Vierslag,Boogschutter,51.919895,5.868377
+135996,NL,Nederland,Utrecht,UT,NULL,NULL,Amersfoort,Kattenbroek,"3823 KJ","Gesloten Stad",Imbros,52.189625,5.387178
+25165,NL,Nederland,Friesland,FR,NULL,NULL,Menaldum,NULL,"9036 NK","Menaam West","It War",53.214886,5.655955
+92726,NL,Nederland,Gelderland,GE,NULL,NULL,Dinxperlo,NULL,"7091 CZ","Dinxperlo Centrum-Oost",Molendwarsweg,51.862003,6.484133
+99322,NL,Nederland,Gelderland,GE,NULL,NULL,Nijmegen,NULL,"6525 DB",Groenewoud,Wijntgensstraat,51.823189,5.876848
+141113,NL,Nederland,Utrecht,UT,NULL,NULL,Hagestein,NULL,"4124 AK",NULL,Bongerd,51.979343,5.122560
+114030,NL,Nederland,Groningen,GR,NULL,NULL,Groningen,Centrum,"9712 JE",Noord,Kattenhage,53.221527,6.568044
+75989,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Wassenaar,"Noordoostelijk deel der gemeente","2242 XL",Oostdorp,"Herman Costerstraat",52.149929,4.392468
+19803,NL,Nederland,Drenthe,DR,NULL,NULL,Roden,NULL,"9302 GT","Roden West",Valkenveld,53.133331,6.398570
+87165,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag",Leidschenveen,"2493 CR","De Lanen","Henk Gottlieblaan",52.064545,4.397348
+115468,NL,Nederland,Groningen,GR,NULL,NULL,Groningen,Nieuw,"9746 RG",Reitdiep,Reitdiephaven,53.236568,6.523022
+6872,NL,Nederland,Noord-Holland,NH,NULL,NULL,Hilversum,Noordoost,"1222 ET",NULL,Vernhoutstraat,52.239258,5.174260
+72668,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Waddinxveen,NULL,"2742 BA",Bomenwijk,Kleikade,52.045956,4.637436
+130288,NL,Nederland,Limburg,LI,NULL,NULL,Geleen,NULL,"6163 XR",Lindenheuvel,"De Ruyterweg",50.979301,5.822727
+73730,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Moerkapelle,"Moerkapelle wijk 01","2751 BW",Moerkapelle-Oost,"Prins Willemstraat",52.046375,4.578952
+52381,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Leende,NULL,"5595 ES",NULL,Lavendelstraat,51.347111,5.549983
+85235,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,"Prins Alexander","3059 TJ",Nesselande,"Jan Sirksstraat",51.985283,4.593858
+44655,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Hilvarenbeek,NULL,"5081 RZ",NULL,Tamboer,51.488686,5.140505
+98957,NL,Nederland,Gelderland,GE,NULL,NULL,Gendt,NULL,"6691 CA",NULL,"Burgemeester Van De Meulenlaan",51.873222,5.968494
+94439,NL,Nederland,Gelderland,GE,NULL,NULL,Hengelo,NULL,"7255 AJ",NULL,Fokkinkweg,52.048126,6.306719
+141567,NL,Nederland,Utrecht,UT,NULL,NULL,IJsselstein,NULL,"3404 ZA","De Hoven en De Boomgaard",Mexicohof,52.011009,5.049760
+92522,NL,Nederland,Gelderland,GE,NULL,NULL,Aalten,NULL,"7122 AK","Aalten-kern Zuid 1","Eerste Broekdijk",51.918079,6.573579
+105615,NL,Nederland,Gelderland,GE,NULL,NULL,Nijkerk,NULL,"3862 AB","Coltoflaan-van Oldenbarneveldstraat",Krudopstraat,52.221867,5.487304
+74071,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Zoetermeer,Rokkeveen,"2719 GV",Rokkeveen-West,Acaciazoom,52.042690,4.471875
+106690,NL,Nederland,Gelderland,GE,NULL,NULL,Culemborg,NULL,"4105 WD","Westelijke Buitenwijken",Bosuilstraat,51.954563,5.207428
+121982,NL,Nederland,Zeeland,ZE,NULL,NULL,Zierikzee,NULL,"4301 TA","in het Noorden en Westen",Zandweg,51.669758,3.905683
+30183,NL,Nederland,Flevoland,FL,NULL,NULL,Zeewolde,NULL,"3894 DA","Buurt 4",Boor,52.340515,5.534256
+98206,NL,Nederland,Gelderland,GE,NULL,NULL,Rheden,NULL,"6991 WD",NULL,Ambtsjonkerstraat,52.003033,6.025171
+65754,NL,Nederland,Overijssel,OV,NULL,NULL,Rijssen,Stadsrand,"7461 SJ",Opbroek,Burggraaf,52.308643,6.542797
+117003,NL,Nederland,Zeeland,ZE,NULL,NULL,Noordgouwe,NULL,"4317 AH",NULL,Stoofhof,51.692940,3.936730
+114965,NL,Nederland,Groningen,GR,NULL,NULL,Adorp,NULL,"9774 PW",NULL,"De Vang",53.275742,6.537506
+9539,NL,Nederland,Noord-Holland,NH,NULL,NULL,Badhoevedorp,NULL,"1171 DB","Badhoevedorp Centrum",Badhoevelaan,52.341766,4.788119
+14235,NL,Nederland,Noord-Holland,NH,NULL,NULL,"Ouderkerk aan de Amstel",NULL,"1191 WJ",NULL,"Jan Victors",52.299984,4.917726
+12711,NL,Nederland,Noord-Holland,NH,NULL,NULL,"Broek op Langedijk",NULL,"1721 HE",NULL,Klaversloot,52.682014,4.799724
+124114,NL,Nederland,Limburg,LI,NULL,NULL,Horst,NULL,"5961 GE",Horst-Centrum,Kloosterstraat,51.451530,6.051869
+32979,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Ravenstein,Ravenstein,"5371 AP",NULL,Bleek,51.796268,5.653653
+42381,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Eindhoven,Meerhoven,"5658 JC",Grasrijk,Graskant,51.440762,5.415122
+133581,NL,Nederland,Limburg,LI,NULL,NULL,Stevensweert,NULL,"6107 BG",Eiland-Brandt,"In 't Broek",51.133980,5.853577
+44883,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Tilburg,Broekhoven,"5021 GK","Broekhoven I",D'hamalestraat,51.549061,5.092418
+81801,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Delft,"Hof van Delft","2613 CW",Ministersbuurt-Oost,"Van Zuylen Van Nijeveltstraat",52.010300,4.348164
+88598,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,"Rotterdam Centrum","3011 LB",Stadsdriehoek,Halhof,51.923294,4.488161
+34589,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Lith,NULL,"5397 BW",NULL,"Verlengde Herenengstraat",51.803989,5.437963
+97573,NL,Nederland,Gelderland,GE,NULL,NULL,Doesburg,NULL,"6981 CT","De oude Stad binnen de gracht",Heerenstraat,52.014877,6.135815
+4010,NL,Nederland,Noord-Holland,NH,NULL,NULL,Alkmaar,West,"1817 CE","Bergerhof en Blaeustraatkwartier",Akkerhoornbloemstraat,52.639702,4.741760
+83863,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Hoek van Holland",NULL,"3151 CE",Dorp,"Jan Mayhof",51.976219,4.140659
+32814,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Zeeland,NULL,"5411 ED",NULL,Schoolstraat,51.698528,5.672508
+52059,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Rijkevoort,NULL,"5447 BM","Rijkevoort Centrum",Staakijzer,51.660015,5.884312
+20636,NL,Nederland,Drenthe,DR,NULL,NULL,Dalen,NULL,"7751 GA",NULL,Hoofdstraat,52.696884,6.755578
+77393,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Noordwijk,Noordwijk-Binnen,"2201 JD",Beeklaan-kwartier,Douzastraat,52.232708,4.444760
+77849,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag",NULL,"2543 TC",Zijden,Vrederustlaan,52.040161,4.265672
+143872,NL,Nederland,Utrecht,UT,NULL,NULL,Bunschoten,NULL,"3752 CA",Spakenburg,Polstraat,52.249699,5.375709
+137752,NL,Nederland,Utrecht,UT,NULL,NULL,Houten,"Houten Zuid","3994 HV",Meren,Kratermeer,52.019707,5.196891
+105587,NL,Nederland,Gelderland,GE,NULL,NULL,Terschuur,NULL,"3784 WV",terschuur,"Van De Borstraat",52.164375,5.516230
+27930,NL,Nederland,Flevoland,FL,NULL,NULL,Dronten,NULL,"8251 TN","De Lancaster",Thomsonstraat,52.514137,5.720220
+59509,NL,Nederland,Overijssel,OV,NULL,NULL,Fleringen,NULL,"7666 NR",NULL,"Scholte Nyssinkhoff",52.382874,6.809485
+44345,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Oisterwijk,Pannenschuur,"5061 DX","Omg. Bej.Centrum-Molen","De Schelf",51.582325,5.178966
+23386,NL,Nederland,Friesland,FR,NULL,NULL,Mitselwier,NULL,"9123 KL",NULL,"It Skûtsje",53.357117,6.066719
+71968,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Gouda,Noord,"2805 SZ","Ouwe Gouwe",Idenburgstraat,52.022820,4.713793
+44845,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Tilburg,Groenewoud,"5022 JG","Groenewoud Midden",Dolomietenlaan,51.538704,5.086938
+97882,NL,Nederland,Gelderland,GE,NULL,NULL,Zevenaar,NULL,"6904 CE",Zonnemaat,"Willem De Zwijgerlaan",51.929501,6.064182
+86315,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Dordrecht,Dubbeldam,"3319 GX",Vissersdijk-Beneden,"Klein Kruithof",51.800812,4.711954
+87945,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Noordwijk,Noordwijk-Binnen,"2201 DL",Dorpskern,"Gerrit Heeringastraat",52.232086,4.457759
+72707,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Ter Aar",NULL,"2461 BH","Ter Aar-Centrum",Leeuwerikspad,52.168110,4.703290
+111739,NL,Nederland,Groningen,GR,NULL,NULL,Uithuizen,NULL,"9981 CE",NULL,Oosterstationsstraat,53.408901,6.676323
+109300,NL,Nederland,Gelderland,GE,NULL,NULL,Nijmegen,Nijmegen-Centrum,"6511 WB",Benedenstad,Johannieterhof,51.848492,5.863758
+142003,NL,Nederland,Utrecht,UT,NULL,NULL,Woerden,NULL,"3445 AJ",Staatsliedenkwartier,"Paulus Buyslaan",52.088024,4.895632
+56095,NL,Nederland,Overijssel,OV,NULL,NULL,Staphorst,NULL,"7951 JJ",Staphorst-Zuid,Wobbenerf,52.640003,6.216782
+50416,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Zevenbergen,NULL,"4761 GT",Torenveld,Watermolen,51.651485,4.602990
+77277,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Voorhout,"Voorhout Oude Dorp","2215 AR","De Knip","Vincent Van Goghstraat",52.224224,4.480509
+52347,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Etten-Leur,Noord,"4871 MA",Schoenmakershoek,Meesterhof,51.588478,4.662254
+24667,NL,Nederland,Friesland,FR,NULL,NULL,Sneek,NULL,"8601 XL",Hemdijk,Leeuweriklaan,53.034981,5.650024
+37951,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Dongen,NULL,"5102 XS","West 2",Hortensiastraat,51.631744,4.922299
+70268,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,IJsselmonde,"3078 GA","Groot IJsselmonde","Adriaan De Jongstraat",51.893204,4.550112
+47871,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Etten-Leur,Noord,"4871 JX","De Keen",Keenseweg,51.589073,4.648349
+102052,NL,Nederland,Gelderland,GE,NULL,NULL,Nederasselt,NULL,"6612 AR",NULL,Sluisweg,51.770973,5.739774
+35517,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Vught,NULL,"5262 JV","De Baarzen",Meierijsingel,51.638775,5.283806
+50948,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Vessem,NULL,"5512 AZ",Vessem-kom,"Jan Smuldersstraat",51.422459,5.295259
+77070,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag",NULL,"2524 VT",Spoorwijk,Schimmelweg,52.050781,4.314000
+47539,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Rijsbergen,NULL,"4891 CE",NULL,Hofdreven,51.513813,4.702065
+121809,NL,Nederland,Zeeland,ZE,NULL,NULL,Vlissingen,Binnenstad,"4381 EB",Oude,"Jan Allemanstraat",51.444210,3.577196
+134930,NL,Nederland,Utrecht,UT,NULL,NULL,Bunschoten,NULL,"3751 GA",Bunschoten,"Da Costastraat",52.239868,5.376436
+135395,NL,Nederland,Utrecht,UT,NULL,NULL,Amersfoort,Liendert,"3815 HG","De Horsten",Gruttostraat,52.166134,5.410081
+111987,NL,Nederland,Groningen,GR,NULL,NULL,Zuidwolde,NULL,"9785 AV",NULL,Pastorielaan,53.261845,6.592021
+144520,NL,Nederland,Utrecht,UT,NULL,NULL,Woerden,NULL,"3445 TR",Staatsliedenkwartier,"Joop Den Uylhof",52.092670,4.908722
+114653,NL,Nederland,Groningen,GR,NULL,NULL,Zuidhorn,NULL,"9801 JJ",NULL,Fazantenlaan,53.247128,6.398357
+17649,NL,Nederland,Drenthe,DR,NULL,NULL,Emmen,Emmen-Centrum,"7811 GM",Emmen-Centrum,Allee,52.788422,6.898172
+15992,NL,Nederland,Drenthe,DR,NULL,NULL,Assen,Marsdijk,"9403 RZ","De Stoepen",Kristalstoep,53.012417,6.593417
+109109,NL,Nederland,Gelderland,GE,NULL,NULL,Putten,NULL,"3881 ST","Krachtighuizen en omgeving",Schoonhoverweg,52.219830,5.610991
+133609,NL,Nederland,Limburg,LI,NULL,NULL,Brunssum,Brunssum-Centrum,"6443 CX","Rumpener Beemden",Astoria-Rumpenerstraat,50.941963,5.970261
+14742,NL,Nederland,Noord-Holland,NH,NULL,NULL,Spierdijk,NULL,"1641 LB","Spierdijkerweg en omgeving",Wezenweid,52.648605,4.938083
+122473,NL,Nederland,Limburg,LI,NULL,NULL,Velden,NULL,"5941 NW","Hasselt en Het Vorst",Genooierweg,51.403648,6.160899
+97199,NL,Nederland,Gelderland,GE,NULL,NULL,Groesbeek,Breedeweg,"6562 HA",Breedeweg,Cypresstraat,51.760956,5.942640
+17224,NL,Nederland,Drenthe,DR,NULL,NULL,Grolloo,NULL,"9444 XE",NULL,"De Pol",52.937557,6.666512
+61607,NL,Nederland,Overijssel,OV,NULL,NULL,Goor,"De Whee II","7471 NM","De Whee II-Noord",Korhoenstraat,52.241615,6.574795
+17091,NL,Nederland,Drenthe,DR,NULL,NULL,Eelde,NULL,"9761 CB",NULL,"Stoffer Holtjerweg",53.133816,6.566850
+126841,NL,Nederland,Limburg,LI,NULL,NULL,Heerlen,Welten,"6419 BS",Welten,Frankenlaan,50.876293,5.965878
+22591,NL,Nederland,Friesland,FR,NULL,NULL,Leeuwarden,"Vossepark & Helicon","8914 AD",Helicon,Helmersstraat,53.204460,5.774044
+88862,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Hillegersberg,"3053 BJ",Schiebroek,Meidoornhof,51.959511,4.474307
+60454,NL,Nederland,Overijssel,OV,NULL,NULL,Borne,NULL,"7622 KK","'t Wensink Noord",Kaufmannstraat,52.296120,6.756857
+114354,NL,Nederland,Groningen,GR,NULL,NULL,Glimmen,Glimmen-Onnen-Noordlaren,"9756 AM",NULL,Brinkweg,53.136181,6.627864
+97489,NL,Nederland,Gelderland,GE,NULL,NULL,Didam,NULL,"6942 KS",Didam-Zuid,Spechtstraat,51.932831,6.125839
+26715,NL,Nederland,Friesland,FR,NULL,NULL,Makkum,NULL,"8754 LD",NULL,Menziessingel,53.062943,5.411367
+98822,NL,Nederland,Gelderland,GE,NULL,NULL,Huissen,NULL,"6851 LW","Uitbreiding Stad Huissen","Achter De Gracht",51.935619,5.940814
+127568,NL,Nederland,Limburg,LI,NULL,NULL,Herten,NULL,"6049 CK","Oolder Veste",Broekveeweg,51.177460,5.957833
+96356,NL,Nederland,Gelderland,GE,NULL,NULL,Heerde,NULL,"8181 NP","Heerde-Noord en Hoorn",Berkenlaan,52.392418,6.006483
+20108,NL,Nederland,Drenthe,DR,NULL,NULL,Nieuw-Amsterdam,NULL,"7833 DP",Nieuw-Amsterdam-Centrum,Stuurboord,52.717350,6.862435
+102632,NL,Nederland,Gelderland,GE,NULL,NULL,Wageningen,"De Buurt","6707 DT","De Buurt-West",Kruisstraat,51.972660,5.662748
+83374,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Maasland,NULL,"3155 TC",NULL,Diepenburchstraat,51.935993,4.270237
+92401,NL,Nederland,Gelderland,GE,NULL,NULL,Lichtenvoorde,NULL,"7131 PR","Nieuwe Kamp",Pasteurstraat,51.998020,6.588413
+15833,NL,Nederland,Drenthe,DR,NULL,NULL,Assen,Noorderpark,"9402 KK","Zwarte Water",Heemskerkstraat,53.004860,6.561474
+140623,NL,Nederland,Utrecht,UT,NULL,NULL,"Nieuwer Ter Aa",NULL,"3626 AJ",NULL,Ruwielstraat,52.192032,4.981270
+50881,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Leiden,Boerhaavedistrict,"2334 CS",Houtkwartier,Zweilandlaan,52.172924,4.486124
+80557,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Hillegersberg,"3053 LD",Schiebroek,Larixlaan,51.962418,4.470276
+36703,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Vlijmen,NULL,"5252 AM",Vijfhoeven,Dreeslaan,51.696342,5.208870
+61421,NL,Nederland,Overijssel,OV,NULL,NULL,Bornerbroek,NULL,"7627 LR",NULL,Molenveld,52.309628,6.652286
+120089,NL,Nederland,Zeeland,ZE,NULL,NULL,Middelburg,Binnenstad,"4331 NB",Markt,"Het Groene Woud",51.495167,3.609613
+66859,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Gouda,Binnenstad,"2801 PK","De Baan",Nood-Godsbrug,52.008766,4.712093
+46370,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Rijen,NULL,"5121 TC",NULL,Fagelhof,51.594238,4.908115
+11116,NL,Nederland,Noord-Holland,NH,NULL,NULL,Haarlem,Oude,"2011 ZD",Vijfhoek,"Korte Lakenstraat",52.377693,4.629050
+82103,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Hoogvliet,Hoogvliet,"3192 KB","Hoogvliet Zuid",Kruisnetlaan,51.849628,4.370083
+69734,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Ridderkerk,Rijsoord,"2988 BW",Rijsoord,"'t Zwaantje",51.855949,4.574302
+54451,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Helmond,NULL,"5707 ZK",NULL,"E.H. Begemannstraat",51.474270,5.650329
+46111,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Rijen,NULL,"5122 CN",NULL,"Anna Blamanstraat",51.587688,4.931634
+1878,NL,Nederland,Noord-Holland,NH,NULL,NULL,Zaandam,"Pelders- en Hoornseveld","1503 ML",Hoornseveld,Bergblauwstraat,52.444221,4.836299
+3662,NL,Nederland,Noord-Holland,NH,NULL,NULL,Alkmaar,NULL,"1827 LX",Daalmeer-Zuidoost,"Anna Blamanstraat",52.668251,4.769412
+141028,NL,Nederland,Utrecht,UT,NULL,NULL,Houten,"Houten Zuid","3994 LX",Mossen,Schijfmos,52.016182,5.190765
+112797,NL,Nederland,Groningen,GR,NULL,NULL,Stadskanaal,NULL,"9501 GP","Stadskanaal Noord Centrum","Geert Teisstraat",53.002419,6.930677
+13879,NL,Nederland,Noord-Holland,NH,NULL,NULL,Twisk,NULL,"1676 EZ","Twisk Centrum","De Heem",52.737526,5.048869
+5721,NL,Nederland,Noord-Holland,NH,NULL,NULL,"Den Helder","binnen de Linie","1782 LC",Tuindorp-Oost,Anemonenstraat,52.949711,4.761951
+107406,NL,Nederland,Gelderland,GE,NULL,NULL,Arnhem,Schuytgraaf,"6846 KC",Schuytgraaf-Noord,"De Silo",51.959953,5.837299
+56139,NL,Nederland,Overijssel,OV,NULL,NULL,Lemelerveld,NULL,"8152 CM","Lemelerveld kern west",Tjalkstraat,52.445072,6.329079
+142580,NL,Nederland,Utrecht,UT,NULL,NULL,Woerden,NULL,"3443 WB",Schilderskwartier,"Ferdinand Bolstraat",52.090942,4.871146
+130050,NL,Nederland,Limburg,LI,NULL,NULL,Beek,"Beek - Spaubeek","6191 VA",NULL,"Achter De Beek",50.938526,5.798581
+80248,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Noord,"3036 XA","Oude Noorden",Rietvinkstraat,51.935890,4.481210
+98915,NL,Nederland,Gelderland,GE,NULL,NULL,Gendt,NULL,"6691 PN",NULL,"De Peperbus",51.881020,5.973504
+73684,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Leiden,Roodenburgerdistrict,"2314 XX",Roomburg,Harteveltweg,52.144211,4.505858
+110880,NL,Nederland,Gelderland,GE,NULL,NULL,Apeldoorn,Noordoost,"7323 XS","Zuidbroek - De Wellen","Van Haersolteweg",52.230522,6.004985
+53058,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Riel,NULL,"5133 CR",Riel-Dorp,Kempenland,51.523853,5.018512
+132902,NL,Nederland,Limburg,LI,NULL,NULL,Herten,NULL,"6049 LR","Oolder Veste",Koppelweide,51.178421,5.956101
+131093,NL,Nederland,Limburg,LI,NULL,NULL,Milsbeek,NULL,"6596 BV",NULL,Heiveld,51.730885,5.948842
+40872,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Eindhoven,Aanschot,"5628 BM","Woenselse Heide",Betuwelaan,51.480114,5.459936
+99345,NL,Nederland,Gelderland,GE,NULL,NULL,Nijmegen,NULL,"6521 EZ",Hengstdal,"Koolemans Beynenstraat",51.835609,5.874134
+128047,NL,Nederland,Limburg,LI,NULL,NULL,Nieuwstadt,NULL,"6118 EK",Cristina,Keerweg,51.037476,5.866228
+70342,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Feijenoord,"3071 BR",Feijenoord,Oranjeboomstraat,51.907890,4.507388
+59696,NL,Nederland,Overijssel,OV,NULL,NULL,Hengelo,"Groot Driene","7552 GT","Groot Driene-Zuid","Karel Gerardstraat",52.257164,6.822890
+93270,NL,Nederland,Gelderland,GE,NULL,NULL,'s-Heerenberg,NULL,"7041 ZS",NULL,"Van Rooijenstraat",51.875751,6.248893
+105459,NL,Nederland,Gelderland,GE,NULL,NULL,Ermelo,NULL,"3853 NA",Ermelo-West,Veldwijkerweg,52.298580,5.603743
+13585,NL,Nederland,Noord-Holland,NH,NULL,NULL,Assendelft,NULL,"1567 CT",Parkrijk,Tulpenburgh,52.488602,4.741447
+126534,NL,Nederland,Limburg,LI,NULL,NULL,Landgraaf,Schaesberg,"6372 BE","Schaesberg Centrum",Briandstraat,50.889729,6.017134
+35741,NL,Nederland,Noord-Brabant,NB,NULL,NULL,'s-Hertogenbosch,"'s-hertogenbosch Zuid","5216 AM",NULL,Maximiliaanstraat,51.680790,5.313070
+126941,NL,Nederland,Limburg,LI,NULL,NULL,Simpelveld,NULL,"6369 CP",Hulsveld,"Sint Georgestraat",50.838539,5.978055
+36357,NL,Nederland,Noord-Brabant,NB,NULL,NULL,'s-Hertogenbosch,Noord,"5231 DN","De Muziekinstrumentenbuurt",Fagot,51.714199,5.298670
+28319,NL,Nederland,Flevoland,FL,NULL,NULL,Tollebeek,NULL,"8309 CJ",NULL,"De Horst",52.676804,5.671416
+42911,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Valkenswaard,NULL,"5554 AA",Turfberg-Noord,Eindhovenseweg,51.364384,5.464494
+75499,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Katwijk,NULL,"2221 SK",Hoornes-Oost,Boshuysenstraat,52.204094,4.423172
+88284,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Honselersdijk,NULL,"2675 RK","Achter de Dijk",Schoener,52.011127,4.226197
+76935,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag","Oude Centrum","2512 XD",Zuidwal,Buitenom,52.071968,4.303091
+27886,NL,Nederland,Flevoland,FL,NULL,NULL,Biddinghuizen,NULL,"8256 HE",Bremerpark,Tentenveld,52.452496,5.698822
+97247,NL,Nederland,Gelderland,GE,NULL,NULL,Tolkamer,NULL,"6916 BC",NULL,Tolstraat,51.852100,6.101552
+35430,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Sint-Michielsgestel,NULL,"5271 NS",Theereheide,"Monseigneur Hermuslaan",51.635609,5.338033
+81714,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Delft,Buitenhof,"2625 VP","Het Rode",Wagenaarstraat,51.993179,4.346645
+94369,NL,Nederland,Gelderland,GE,NULL,NULL,Ruurlo,NULL,"7261 VK",Everwenninkhoek,"'t Heering",52.094360,6.446411
+120359,NL,Nederland,Zeeland,ZE,NULL,NULL,Middelburg,Klarenbeek,"4333 CV","Klarenbeek II & III","Frans Duwaerstraat",51.513607,3.613868
+62664,NL,Nederland,Overijssel,OV,NULL,NULL,Raalte,NULL,"8102 MA",Franciscushof,Schubertstraat,52.406086,6.270851
+125372,NL,Nederland,Limburg,LI,NULL,NULL,Kerkrade,NULL,"6463 EE",Chevremont,Schoutstraat,50.876392,6.062011
+84343,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Oostvoorne,NULL,"3233 BX",NULL,"Van Der Meerweg",51.910934,4.098156
+14022,NL,Nederland,Noord-Holland,NH,NULL,NULL,"Sint Pancras",NULL,"1834 BG",NULL,Zuiderlaantje,52.655312,4.779627
+38072,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Someren,NULL,"5711 KP",NULL,Ijssel,51.386520,5.721393
+33461,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Uden,NULL,"5401 BZ",Moleneind-Groenewoud,"Peerke Verkuijlenstraat",51.656273,5.603073
+139073,NL,Nederland,Utrecht,UT,NULL,NULL,Nieuwegein,Fokkesteeg,"3432 RC",Fokkesteeg,Snekerveste,52.024876,5.096941
+120340,NL,Nederland,Zeeland,ZE,NULL,NULL,Middelburg,Veersepoort,"4332 CJ",Veersepoort,Tureluurstraat,51.508541,3.627009
+88405,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Naaldwijk,NULL,"2671 XL","Naaldwijk Centrumgebied",Offenbach,51.994541,4.213215
+78478,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag",NULL,"2554 BT",Ockenburgh,Buitenklingen,52.064991,4.222594
+79339,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Feijenoord,"3073 WH",Bloemhof,Lavendelstraat,51.894756,4.496196
+16207,NL,Nederland,Drenthe,DR,NULL,NULL,Emmer-Compascuum,NULL,"7881 RD",Emmer-Compascuum-Centrum,Populierenlaan,52.807297,7.035696
+91089,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Numansdorp,NULL,"3281 NH","Numansdorp Bedrijventerrein Middelsluis",Energieweg,51.746601,4.443491
+90525,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Ridderkerk,"Het Zand","2984 GA","Het Zand",Boerhaavestraat,51.868706,4.613364
+59314,NL,Nederland,Overijssel,OV,NULL,NULL,Ootmarsum,NULL,"7631 AP",Moerbekkenkamp,Kampstraat,52.410862,6.900015
+26254,NL,Nederland,Friesland,FR,NULL,NULL,Heerenveen,NULL,"8448 ML",Skoatterwald,Landgraaf,52.951332,5.954091
+126809,NL,Nederland,Limburg,LI,NULL,NULL,Heerlen,Welten,"6419 CA",Welten,"P. Petersstraat",50.874954,5.967673
+132538,NL,Nederland,Limburg,LI,NULL,NULL,Weert,Groenewoud,"6004 KJ",Groenewoud-Noord,Buggenumstraat,51.256855,5.726605
+135711,NL,Nederland,Utrecht,UT,NULL,NULL,Amersfoort,Zielhorst,"3822 VA",Architectenbuurt-Oost,Berninistraat,52.179214,5.400310
+40770,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Eindhoven,Begijnenbroek,"5623 JP",Generalenbuurt,"Generaal Dibbetslaan",51.461250,5.481128
+63001,NL,Nederland,Overijssel,OV,NULL,NULL,Deventer,Colmschate,"7422 SR",Colmschaterenk,Kamille,52.247784,6.203768
+44718,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Esbeek,NULL,"5085 GN",NULL,Mostaard,51.462841,5.138572
+36282,NL,Nederland,Noord-Brabant,NB,NULL,NULL,'s-Hertogenbosch,Empel,"5236 XE","Kom Empel","Pastoor Claassenstraat",51.729633,5.321582
+120822,NL,Nederland,Zeeland,ZE,NULL,NULL,Koudekerke,NULL,"4371 BS",NULL,Naereboutstraat,51.480492,3.549746
+69603,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Kralingen,"3062 BK","Kralingen Oost",Mecklenburglaan,51.928688,4.511545
+47017,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Breda,"Breda zuid","4835 KC",Ginneken,"Cartier Van Disselstraat",51.568508,4.778854
+132919,NL,Nederland,Limburg,LI,NULL,NULL,Hoensbroek,"Nieuw Lotbroek","6433 AP","Nieuw Lotbroek-Noord","Pastoor Van De Boorenplein",50.913265,5.929467
+77767,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag",Vruchtenbuurt,"2564 XN",Vruchtenbuurt,Frambozenstraat,52.069000,4.256006
+54236,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Nuenen,NULL,"5671 LC",Nuenen-Noord,Repelakker,51.471893,5.552829
+98831,NL,Nederland,Gelderland,GE,NULL,NULL,Leuth,NULL,"6578 BP",NULL,"Wethouder Burgers-Stee",51.839699,5.992178
+19499,NL,Nederland,Drenthe,DR,NULL,NULL,Norg,NULL,"9331 AZ",NULL,Hekakkerstraat,53.063396,6.462790
+64751,NL,Nederland,Overijssel,OV,NULL,NULL,Hengelo,"Hengelose Es","7556 PT","Hengelose Es-Noord","Adriaen Brouwerstraat",52.284313,6.783365
+54381,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Tilburg,Dalem,"5035 MH","Stadsrand Dalem Noord",Rijperkerkpark,51.586967,4.975410
+140193,NL,Nederland,Utrecht,UT,NULL,NULL,IJsselstein,NULL,"3402 ZJ",IJsselveld-West,Opaalhof,52.033649,5.044695
+44171,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Haaren,NULL,"5076 EB",NULL,Beukenlaan,51.604492,5.223308
+26397,NL,Nederland,Friesland,FR,NULL,NULL,Goutum,NULL,"9084 DS",NULL,"De Eker",53.183113,5.816488
+21964,NL,Nederland,Friesland,FR,NULL,NULL,Tietjerk,NULL,"9255 JX",NULL,Hanenburg,53.213345,5.911194
+10587,NL,Nederland,Noord-Holland,NH,NULL,NULL,Vijfhuizen,NULL,"2141 MC","Vijfhuizen Stellinghof",Citadel,52.344017,4.675434
+103108,NL,Nederland,Gelderland,GE,NULL,NULL,Ochten,Echteld,"4051 BP",NULL,Liniestraat,51.910278,5.571656
+10541,NL,Nederland,Noord-Holland,NH,NULL,NULL,Haarlem,Meerwijk,"2037 JP",Nobelprijsbuurt,Freudstraat,52.355488,4.665053
+49205,NL,Nederland,Noord-Brabant,NB,NULL,NULL,"Bergen op Zoom",NULL,"4624 HG",Warande-West,Canadalaan,51.487064,4.297589
+80571,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Hillegersberg,"3053 XZ",Schiebroek,Chrysantstraat,51.961098,4.464911
+99682,NL,Nederland,Gelderland,GE,NULL,NULL,Nijmegen,NULL,"6533 CC","St. Anna",Veldstraat,51.821022,5.852901
+74438,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Leiden,Binnenstad,"2311 HM",Levendaal,Hogewoerd,52.156322,4.493645
+87193,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag",Leidschenveen,"2492 TC","De Vissen",Zilverreigerstraat,52.063259,4.418450
+102215,NL,Nederland,Gelderland,GE,NULL,NULL,Ewijk,NULL,"6644 KX","Ewijk-Buitengebied Zuid-2","Groene Heuvels",51.844517,5.687609
+54046,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Veghel,NULL,"5463 BH","Veghel Zuid 1","Doctor W. Dreesstraat",51.611301,5.546431
+109643,NL,Nederland,Gelderland,GE,NULL,NULL,Ede,NULL,"6717 ZS",Enka,Oversteek,52.022118,5.682916
+45133,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Tilburg,Heikant,"5011 EP","Heikant West",Zellerstraat,51.588013,5.090320
+85863,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Voorburg,Essesteijn,"2272 WD","Nieuw Essesteijn - Zijdezigt","Via Verdi",52.086933,4.378347
+143654,NL,Nederland,Utrecht,UT,NULL,NULL,Nieuwegein,Blokhoeve,"3438 MC",Blokhoeve,Bongerdhoeve,52.047504,5.096868
+128595,NL,Nederland,Limburg,LI,NULL,NULL,Stevensweert,NULL,"6107 CD",Eiland-Brandt,"De Heggestraat",51.132278,5.854880
+109616,NL,Nederland,Gelderland,GE,NULL,NULL,Nijmegen,NULL,"6515 XJ",Ressen,"Hugo Clausstraat",51.877808,5.852965
+123364,NL,Nederland,Limburg,LI,NULL,NULL,Venlo,Blerick,"5923 KW",Zonneveld,Zonneveld,51.364426,6.135669
+100976,NL,Nederland,Gelderland,GE,NULL,NULL,Elst,NULL,"6662 HX",Lynden,Elstar,51.916676,5.826996
+80837,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Bergschenhoek,Boterdorp,"2662 BE",Eilandenbuurt,Vondelstraat,51.986427,4.490339
+50055,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Made,NULL,"4921 ZC",NULL,Valkenbergstraat,51.678452,4.790167
+53115,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Oisterwijk,Pannenschuur,"5061 NE","Omg. Pannenschuur-Centrum",Beekloop,51.579056,5.174479
+97808,NL,Nederland,Gelderland,GE,NULL,NULL,Zevenaar,NULL,"6903 WZ",Stegeslag,Heesackers,51.942810,6.060609
+57496,NL,Nederland,Overijssel,OV,NULL,NULL,Oldemarkt,NULL,"8375 BR",NULL,"Wicher Huismanstraat",52.818462,5.974204
+110966,NL,Nederland,Gelderland,GE,NULL,NULL,Kerk-Avezaath,NULL,"4012 BT","Kerk Avezaath",Noordereind,51.907558,5.381288
+25710,NL,Nederland,Friesland,FR,NULL,NULL,Franeker,NULL,"8802 TE","Franeker Kaatsersbuurt","Pim Mulierstraat",53.191059,5.529742
+27228,NL,Nederland,Friesland,FR,NULL,NULL,Vlieland,NULL,"8899 BV",NULL,Dreef,53.299675,5.062082
+19616,NL,Nederland,Drenthe,DR,NULL,NULL,Norg,NULL,"9331 LK",NULL,Entinge,53.066654,6.439716
+144790,NL,Nederland,Utrecht,UT,NULL,NULL,Mijdrecht,NULL,"3641 AC",NULL,"Bosch En Haven",52.204082,4.867856
+46203,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Gilze,NULL,"5126 CT",NULL,Wendel,51.542397,4.950105
+18700,NL,Nederland,Drenthe,DR,NULL,NULL,Tiendeveen,NULL,"7936 PG",NULL,"Kanaal Westzijde",52.756344,6.547774
+40867,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Eindhoven,Aanschot,"5628 KC","Woenselse Heide",Zuiderzeelaan,51.477425,5.464497
+77835,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Wateringen,NULL,"2291 EZ","Wateringen Noord en Ambachtshof",Ambachtsweg,52.031212,4.268890
+15468,NL,Nederland,Noord-Holland,NH,NULL,NULL,Aalsmeer,NULL,"1431 WM",Hornmeer,"Frans De Bieslaan",52.258305,4.765764
+13934,NL,Nederland,Noord-Holland,NH,NULL,NULL,Oostzaan,NULL,"1511 DD","De Haal en De Heul en Noordeinde",Jol,52.447495,4.870480
+101672,NL,Nederland,Gelderland,GE,NULL,NULL,Beuningen,Beuningen,"6642 BR",Beuningen-Heuve-4,Constantiuslaan,51.854050,5.753033
+39313,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Aarle-Rixtel,NULL,"5735 KN",NULL,Peelstraat,51.512848,5.630773
+86256,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Dordrecht,Sterrenburg,"3318 CX","Sterrenburg 1-Oost",Rigelhof,51.786205,4.680288
+60802,NL,Nederland,Overijssel,OV,NULL,NULL,Almelo,Schelfhorst,"7608 VG","Drakensteyn en omgeving",Walenburg,52.376476,6.676224
+121111,NL,Nederland,Zeeland,ZE,NULL,NULL,Terneuzen,NULL,"4533 PJ",NULL,Molenweg,51.321487,3.862553
+139041,NL,Nederland,Utrecht,UT,NULL,NULL,Abcoude,NULL,"1391 BL",Abcoude-Zuidwest,"Zuster Claassenhof",52.270912,4.961977
+132420,NL,Nederland,Limburg,LI,NULL,NULL,Weert,Keent,"6006 BN",Keent,"Louis Beerenbrouckstraat",51.244106,5.703990
+103269,NL,Nederland,Gelderland,GE,NULL,NULL,Tiel,NULL,"4005 BC","Het Ooij",Peppellaan,51.897274,5.439616
+48121,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Hoeven,NULL,"4741 CK",NULL,Meidoornlaan,51.576790,4.582795
+67868,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Hendrik-Ido-Ambacht,"De Volgerlanden","3344 EG",Volgerlanden-West,Oeverwal,51.829102,4.643594
+135178,NL,Nederland,Utrecht,UT,NULL,NULL,Leusden,Leusden-Centrum,"3831 ZH",Langenbeek,Beekforel,52.130547,5.441348
+20180,NL,Nederland,Drenthe,DR,NULL,NULL,Eelderwolde,NULL,"9766 PJ",NULL,"Cunera Van Wahrenlaan",53.181694,6.535240
+34647,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Nuland,NULL,"5391 CP","Kom Nuland",Sikkel,51.723942,5.438161
+62692,NL,Nederland,Overijssel,OV,NULL,NULL,Raalte,NULL,"8101 ZA",Langkamp,"De Gaarden",52.385723,6.259952
+111253,NL,Nederland,Groningen,GR,NULL,NULL,Delfzijl,Noord,"9931 CP",Zandplatenbuurt,Robbeplaat,53.336327,6.900795
+52125,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Eindhoven,Oud-Strijp,"5616 NG",Philipsdorp,"Het Hof Van Strijp",51.441669,5.457449
+107435,NL,Nederland,Gelderland,GE,NULL,NULL,Arnhem,Schuytgraaf,"6846 GN",Schuytgraaf-Noord,Lokaalspoor,51.960136,5.839869
+114336,NL,Nederland,Groningen,GR,NULL,NULL,Groningen,Helpman,"9721 XS","De Wijert-Zuid","Ter Braaklaan",53.187988,6.570676
+25799,NL,Nederland,Friesland,FR,NULL,NULL,Midlum,Midlum,"8872 NW",Midlum,Kerkstraat,53.183411,5.448911
+35170,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Rosmalen,NULL,"5242 CV",Molenhoek,"Martinus Nijhoffstraat",51.711075,5.368566
+124110,NL,Nederland,Limburg,LI,NULL,NULL,Horst,NULL,"5961 LG",Stuksbeemden,Stuksbeemden,51.453415,6.061939
+65378,NL,Nederland,Overijssel,OV,NULL,NULL,Dalfsen,NULL,"7722 ZD",Gernermarke-Oosterdalfsen,Trechterbeker,52.514988,6.276420
+1012,NL,Nederland,Noord-Holland,NH,NULL,NULL,Hoogwoud,NULL,"1718 CD",NULL,Radboudstraat,52.714695,4.935377
+63529,NL,Nederland,Overijssel,OV,NULL,NULL,Deventer,"Wijk 3 Zandweerd","7412 NR",Schrijversbuurt,"Jan Luykenlaan",52.270889,6.135800
+130147,NL,Nederland,Limburg,LI,NULL,NULL,Geleen,NULL,"6165 SK",Kluis,Kievitstraat,50.964222,5.831111
+17836,NL,Nederland,Drenthe,DR,NULL,NULL,Emmen,NULL,"7814 TE",Westenesch,"Kromme Elleboog",52.785789,6.871471
+47999,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Sprundel,NULL,"4714 TE",NULL,Luienhoeksestraat,51.547771,4.601328
+45621,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Goirle,"De Hellen","5051 EK","De Villa",Klotven,51.521690,5.045892
+92429,NL,Nederland,Gelderland,GE,NULL,NULL,Lichtenvoorde,NULL,"7131 DA",NULL,Beenengang,51.987820,6.566173
+7198,NL,Nederland,Noord-Holland,NH,NULL,NULL,Bussum,"Bussum Centrum","1405 HS",Spiegelzicht,Spiegeldwarsstraat,52.273918,5.158627
+126857,NL,Nederland,Limburg,LI,NULL,NULL,Heerlen,Welten,"6419 AZ",Welten,Sintermeertenshöfke,50.879372,5.962664
+47001,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Breda,"Breda centrum","4811 LD",Fellenoord,Stadhouderstraat,51.587021,4.771063
+85358,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Bergschenhoek,Boterdorp,"2662 BM",Eilandenbuurt,Manderhof,51.985733,4.489140
+56920,NL,Nederland,Overijssel,OV,NULL,NULL,Zwolle,Holtenbroek,"8031 ET","Holtenbroek I",Händellaan,52.524277,6.081401
+86537,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag","Wateringse Veld","2548 SK","Parkbuurt oosteinde",Elsenburgstraat,52.026932,4.295425
+58359,NL,Nederland,Overijssel,OV,NULL,NULL,Enschede,NULL,"7542 LT","Stroinkslanden Noord-Oost",Vrielinklanden,52.195358,6.904555
+51316,NL,Nederland,Noord-Brabant,NB,NULL,NULL,"Bergen op Zoom",NULL,"4616 AJ","De Markiezaten",Zuiderdreef,51.478859,4.289643
+114853,NL,Nederland,Groningen,GR,NULL,NULL,Marum,NULL,"9363 GZ",NULL,Marktstraat,53.143467,6.251742
+45914,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Tilburg,"Tuindorp De Kievit","5045 WX","De Kievit Noord-Oost",Lochemstraat,51.586777,5.003269
+15242,NL,Nederland,Noord-Holland,NH,NULL,NULL,Kortenhoef,NULL,"1241 JC",Rade,Kalkakker,52.234650,5.117969
+108475,NL,Nederland,Gelderland,GE,NULL,NULL,Groenlo,NULL,"7141 LM",hartreize,"De Kunne",52.032791,6.607749
+10595,NL,Nederland,Noord-Holland,NH,NULL,NULL,Spaarndam,NULL,"2064 LH",NULL,"Baron Van Fridaghstraat",52.415321,4.691686
+19566,NL,Nederland,Drenthe,DR,NULL,NULL,Peize,NULL,"9321 BH",NULL,Hofstraat,53.150261,6.496965
+15261,NL,Nederland,Noord-Holland,NH,NULL,NULL,Heerhugowaard,Schrijverswijk,"1702 GC",Schrijverswijk,"De Genestetlaan",52.667603,4.840507
+20930,NL,Nederland,Friesland,FR,NULL,NULL,Wijnjewoude,NULL,"9241 EG",Wijnjewoude-Gentiaan,Russchenreed,53.058830,6.211379
+128013,NL,Nederland,Limburg,LI,NULL,NULL,Sittard,Overhoven,"6136 AK",Overhoven,Vouerweg,51.006702,5.863207
+74350,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Leiden,"Bos- en Gasthuisdistrict","2321 GB",Gasthuiswijk,"Jacob Van Campenlaan",52.140724,4.479988
+129249,NL,Nederland,Limburg,LI,NULL,NULL,Klimmen,NULL,"6343 PV",Weustenrade,Luiperbeekstraat,50.898746,5.913034
+29220,NL,Nederland,Flevoland,FL,NULL,NULL,Almere,"Almere Buiten","1335 CC",Seizoenenbuurt,Winterstraat,52.405125,5.287611
+54989,NL,Nederland,Noord-Brabant,NB,NULL,NULL,"Wijk en Aalburg",NULL,"4261 TL",Spijk,Kroonhof,51.765133,5.127166
+44688,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Hilvarenbeek,NULL,"5081 VM",NULL,"Hof Ter Loo",51.486221,5.130267
+126040,NL,Nederland,Limburg,LI,NULL,NULL,Heerlen,Schandelen-Grasbroek,"6412 SN",Musschemig,Granaatstraat,50.900978,5.968619
+112138,NL,Nederland,Groningen,GR,NULL,NULL,Midwolda,NULL,"9681 AS",NULL,Mennistenlaan,53.195290,7.019410
+94630,NL,Nederland,Gelderland,GE,NULL,NULL,Warnsveld,NULL,"7231 JB",NULL,Breegraven,52.139053,6.225413
+143935,NL,Nederland,Utrecht,UT,NULL,NULL,Utrecht,Zuid,"3525 BV","Oud Hoograven-Zuid",Draadnagelweg,52.062286,5.114881
+48858,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Steenbergen,NULL,"4651 TN",Steenbergen-Centrum,Lindenburghlaan,51.588284,4.314850
+73372,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Zoeterwoude,Zoeterwoude-Rijndijk,"2382 BK","Hoge Rijndijk Oost",Kopperwetering,52.139320,4.534093
+61723,NL,Nederland,Overijssel,OV,NULL,NULL,Haaksbergen,NULL,"7481 HA","Haaksbergen Kern-3",Ambachtstraat,52.152061,6.738214
+74546,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Leiden,Stationskwartier,"2316 XD",Stationskwartier,Schipholweg,52.168770,4.487360
+132974,NL,Nederland,Limburg,LI,NULL,NULL,Geijsteren,NULL,"5862 AC",NULL,"Alde Pasterie",51.553654,6.048933
+108480,NL,Nederland,Gelderland,GE,NULL,NULL,Zutphen,Leesten,"7207 NG",Ooyerhoek,"Laakse Dam",52.125137,6.221603
+65676,NL,Nederland,Overijssel,OV,NULL,NULL,Collendoorn,NULL,"7798 CJ",NULL,"Havezate Esch",52.590973,6.605937
+32086,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Boxmeer,NULL,"5831 MV",Luneven,Wielewaal,51.639397,5.951377
+128473,NL,Nederland,Limburg,LI,NULL,NULL,Thorn,NULL,"6017 BJ",NULL,Panheeldersteeg,51.164318,5.846330
+94595,NL,Nederland,Gelderland,GE,NULL,NULL,Warnsveld,NULL,"7232 GH",Overkamp,"Het Schieven",52.129833,6.236339
+39826,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Nuenen,Gerwen,"5674 SC",Gerwen,Steenbroeken,51.489685,5.558268
+31003,NL,Nederland,Flevoland,FL,NULL,NULL,Almere,"Almere Hout","1341 EH",Nobelhorst,"Igor Tammstraat",52.360126,5.289529
+89595,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Moerkapelle,"Moerkapelle wijk 01","2751 HH","Jonge Veenen",Achterzoom,52.047386,4.585840
+47014,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Breda,"Breda zuid","4835 LG",Ginneken,"Burgemeester Serrarislaan",51.570217,4.781540
+66864,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Gouda,Binnenstad,"2801 PT","De Baan",Walestraat,52.009212,4.714077
+20328,NL,Nederland,Drenthe,DR,NULL,NULL,Coevorden,NULL,"7742 LA",Ossehaar,"Jan Frowijnstraat",52.658012,6.764516
+5261,NL,Nederland,Noord-Holland,NH,NULL,NULL,Castricum,NULL,"1902 AB",Molendijk,Cieweg,52.545441,4.671492
+103744,NL,Nederland,Gelderland,GE,NULL,NULL,Kerk-Avezaath,NULL,"4012 DB","Kerk Avezaath","Meester R.J. Van Beekhoffstraat",51.896423,5.378050
+65732,NL,Nederland,Overijssel,OV,NULL,NULL,'s-Heerenbroek,Stadshagen,"8275 AD","Tippe bij de IJssel",Volkerinkstraat,52.533707,6.038187
+44512,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Berkel-Enschot,NULL,"5056 EZ",Rauwbraken,"Doctor Schaepmanstraat",51.583271,5.136856
+43296,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Valkenswaard,NULL,"5554 RA",Kerkakkers,"Kardinaal De Jongstraat",51.352619,5.447406
+23449,NL,Nederland,Friesland,FR,NULL,NULL,Wouterswoude,NULL,"9113 PV",NULL,Bonifatiusstrjitte,53.294331,6.029460
+101918,NL,Nederland,Gelderland,GE,NULL,NULL,Malden,NULL,"6581 HR",Malden-West,Kiezel,51.778145,5.851303
+82996,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Spijkenisse,Vogelenzang,"3208 RC",Vogelenzang-Zuid,Chopinstraat,51.834156,4.314871
+4348,NL,Nederland,Noord-Holland,NH,NULL,NULL,Velserbroek,NULL,"1991 RV",Bastionbuurt,"Mathilde Wibautstraat",52.432178,4.665246
+30205,NL,Nederland,Flevoland,FL,NULL,NULL,Luttelgeest,NULL,"8315 BG",NULL,Aronskelk,52.738792,5.854417
+27534,NL,Nederland,Friesland,FR,NULL,NULL,Drachten,NULL,"9202 VW","De Venen","'t Leger",53.103020,6.117080
+140118,NL,Nederland,Utrecht,UT,NULL,NULL,"De Meern","Vleuten-De Meern","3454 EV","De Meern-Zuid","Van Zuylenstraat",52.081478,5.034226
+44083,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Boxtel,NULL,"5282 VC",Boxtel-Noord,"Sint Jozefstraat",51.601307,5.316954
+107054,NL,Nederland,Gelderland,GE,NULL,NULL,Nijmegen,NULL,"6515 HR",Oosterhout,Kruidenstraat,51.880589,5.836867
+128607,NL,Nederland,Limburg,LI,NULL,NULL,Stevensweert,NULL,"6107 BD","Stevensweert waaronder Bilt",Bruidsweg,51.129250,5.852590
+32674,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Mill,NULL,"5451 BP",Mill-Centrum,Julianastraat,51.684685,5.783707
+67370,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Dordrecht,Binnenstad,"3311 XP","Augustijnenkamp en omgeving",Achterklooster,51.814739,4.671764
+139386,NL,Nederland,Utrecht,UT,NULL,NULL,Utrecht,Zuidwest,"3521 VA",Dichterswijk,"Hubert Pootstraat",52.082649,5.112054
+123746,NL,Nederland,Limburg,LI,NULL,NULL,Roermond,Maasniel,"6042 ND","De Wijher en omgeving",Cornelishoflaan,51.199711,6.017090
+130493,NL,Nederland,Limburg,LI,NULL,NULL,Elsloo,NULL,"6181 GA",NULL,"Sint Augustinusstraat",50.951447,5.763764
+22942,NL,Nederland,Friesland,FR,NULL,NULL,Haskerhorne,NULL,"8506 BL",NULL,"Van Claerbergenstrjitte",52.951630,5.830524
+23317,NL,Nederland,Friesland,FR,NULL,NULL,Kollumerzwaag,NULL,"9298 VB",NULL,"J Vogelzangstrjitte",53.265720,6.086148
+86326,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rijswijk,NULL,"2286 GN",Stervoorde,Briandstraat,52.029198,4.313663
+87869,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Spijkenisse,"De Akkers","3206 AH",Gaarden,Dadelgaard,51.832298,4.328903
+4784,NL,Nederland,Noord-Holland,NH,NULL,NULL,Beverwijk,Kuenenkwartier,"1944 VG",Oostertuinen,Peelstraat,52.491505,4.652381
+67559,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Nieuw-Lekkerland,NULL,"2957 NA",Nieuw-Lekkerland-Dorp,Baardmannetje,51.886654,4.673902
+32821,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Zeeland,NULL,"5411 BE",NULL,Puttelaar,51.693974,5.676768
+18404,NL,Nederland,Drenthe,DR,NULL,NULL,Hoogeveen,NULL,"7903 BG","Industriegebied Noord B",Plesmanstraat,52.734058,6.519746
+32490,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Beers,Beers,"5437 DA",Beers,"Burgemeester Van De Braakplein",51.724953,5.826916
+103585,NL,Nederland,Gelderland,GE,NULL,NULL,Tiel,NULL,"4001 TL",Hertogenwijk,Beusichemstraat,51.879684,5.422855
+67664,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Krimpen aan de Lek",NULL,"2931 RA","Tiendweg Noord",Groenland,51.899609,4.631168
+139774,NL,Nederland,Utrecht,UT,NULL,NULL,Utrecht,Noordwest,"3551 SW","2e Daalsebuurt en omgeving",Asterstraat,52.100090,5.099672
+84579,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Goudswaard,NULL,"3267 AN",NULL,"Nicolaas Van Puttenstraat",51.793880,4.278863
+9607,NL,Nederland,Noord-Holland,NH,NULL,NULL,Amsterdam,Geuzenveld,"1067 ZX","Buurt 6","Pier Panderstraat",52.376106,4.797892
+79519,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Delfshaven,"3021 NC",Middelland,Heemraadssingel,51.915447,4.456022
+97484,NL,Nederland,Gelderland,GE,NULL,NULL,Didam,NULL,"6942 EB",Didam-Zuid,Stationsplein,51.933231,6.131604
+46824,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Breda,NULL,"4816 HA",Doornbos-Linie,Zandveld,51.600262,4.796484
+60724,NL,Nederland,Overijssel,OV,NULL,NULL,Almelo,Hofkamp,"7607 RC",Paradijs,Seeland,52.352455,6.688515
+102447,NL,Nederland,Gelderland,GE,NULL,NULL,Wageningen,Wageningen-Hoog,"6705 BX",Wageningen-Hoog,Dennenlaan,51.993038,5.690369
+1400,NL,Nederland,Noord-Holland,NH,NULL,NULL,Purmerend,Purmer,"1447 TT",Purmer-Zuid-Noord,Leenderbos,52.491150,4.976236
+13544,NL,Nederland,Noord-Holland,NH,NULL,NULL,Amsterdam,"Tuindorp Oostzaan","1036 KS","De Bongerd",Lindekersstraat,52.406273,4.900965
+118513,NL,Nederland,Zeeland,ZE,NULL,NULL,"'s-Heer Arendskerke",'s-Heer-Arendskerke,"4458 AA",'s-Heer-Arendskerke,"Lange Achterweg",51.491531,3.822240
+134537,NL,Nederland,Utrecht,UT,NULL,NULL,Amerongen,Amerongen,"3958 GK",NULL,"De Klamp",52.006496,5.459878
+86788,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Delft,Voordijkshoorn,"2635 CJ","Den Hoorn",Lookwatering,52.006252,4.325950
+54,NL,Nederland,Noord-Holland,NH,NULL,NULL,Wieringerwerf,NULL,"1771 DA",NULL,Spade,52.848015,5.031517
+63144,NL,Nederland,Overijssel,OV,NULL,NULL,Schalkhaar,NULL,"7433 CA",NULL,"De Botterije",52.265247,6.186611
+96304,NL,Nederland,Gelderland,GE,NULL,NULL,Heerde,NULL,"8181 DW",NULL,"J.A. Te Nuijlstraat",52.388031,6.040487
+5717,NL,Nederland,Noord-Holland,NH,NULL,NULL,"Den Helder","binnen de Linie","1781 KE",NULL,Koningstraat,52.961018,4.762489
+58103,NL,Nederland,Overijssel,OV,NULL,NULL,Losser,NULL,"7582 JC",Losser-West,"Het Kloppenberg",52.265053,6.993727
+123813,NL,Nederland,Limburg,LI,NULL,NULL,Swalmen,NULL,"6071 JG",Swalmen-Centrum,"Sint Jansstraat",51.231583,6.036903
+104769,NL,Nederland,Gelderland,GE,NULL,NULL,Ederveen,NULL,"6744 PA",NULL,Bruinehorst,52.068329,5.577819
+24725,NL,Nederland,Friesland,FR,NULL,NULL,Heeg,NULL,"8621 DL",NULL,"Wite Muonts",52.970596,5.612482
+22886,NL,Nederland,Friesland,FR,NULL,NULL,Heerenveen,NULL,"8447 AW",Nijehaske,Lawei,52.962643,5.910929
+51547,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Drunen,NULL,"5151 HS","Centrum Drunen",Contrefort,51.687389,5.131205
+52537,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Hilvarenbeek,NULL,"5081 MB",NULL,"Jan Van Dongenpad",51.488121,5.127751
+12728,NL,Nederland,Noord-Holland,NH,NULL,NULL,"Sint Pancras",NULL,"1834 TA",NULL,Kroosbrug,52.664963,4.792088
+25601,NL,Nederland,Friesland,FR,NULL,NULL,Bolsward,NULL,"8701 HL","Bolsward binnen De Wallen",Kemperhaven,53.062542,5.526302
+62926,NL,Nederland,Overijssel,OV,NULL,NULL,Deventer,"Wijk 8 Colmschate","7423 EH","Groot Douwel",Merel,52.255054,6.209817
+142500,NL,Nederland,Utrecht,UT,NULL,NULL,Vleuten,"Vleuten-De Meern","3452 AM",Vleuterweide-West,Waterbieslaan,52.096840,4.999329
+44696,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Hilvarenbeek,NULL,"5081 CP",NULL,Varkensmarkt,51.485580,5.138456
+84814,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Dirksland,NULL,"3247 DK","Dirksland zuid",Magnolia,51.743946,4.106537
+112341,NL,Nederland,Groningen,GR,NULL,NULL,Winschoten,NULL,"9673 CC",Winschoten-Zuid,Zaanstraat,53.135960,7.028189
+90620,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Hoorn",NULL,"2635 CN","Den Hoorn",Sterappel,51.998425,4.322044
+23768,NL,Nederland,Friesland,FR,NULL,NULL,Holwerd,NULL,"9151 KD",NULL,Beyertstrjitte,53.369308,5.905722
+119315,NL,Nederland,Zeeland,ZE,NULL,NULL,Terneuzen,"Terneuzen Centrum","4531 DB",Java,Spuistraat,51.337982,3.828301
+31567,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Deurne,NULL,"5754 SC",Heiakker,Sleutelbloem,51.468758,5.809514
+99976,NL,Nederland,Gelderland,GE,NULL,NULL,Arnhem,Malburgen-Oost,"6833 GE",Kamillehof,Kamillehof,51.965919,5.918899
+80243,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Kralingen,"3034 NC","Nieuw Crooswijk",Crooswijksebocht,51.937195,4.487955
+93671,NL,Nederland,Gelderland,GE,NULL,NULL,Doetinchem,NULL,"7007 BK","De Hoop-Zuid",Torontostraat,51.956295,6.281490
+69300,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,"Prins Alexander","3066 NH",Prinsenland,Dosiostraat,51.935394,4.554590
+24892,NL,Nederland,Friesland,FR,NULL,NULL,Elahuizen,NULL,"8581 KK",NULL,"Joop Schweitzerstrjitte",52.922543,5.536983
+42428,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Veldhoven,Noordelijk,"5508 MG","De Kelen","De Kelder",51.433067,5.379977
+30882,NL,Nederland,Flevoland,FL,NULL,NULL,Almere,"Almere Hout","1341 DS",Nobelhorst,"John Bardeenstraat",52.360466,5.287101
+12602,NL,Nederland,Noord-Holland,NH,NULL,NULL,Schiphol,NULL,"1117 ES",NULL,Voltweg,52.305492,4.801017
+64988,NL,Nederland,Overijssel,OV,NULL,NULL,Geesteren,NULL,"7678 AV",NULL,"De Veldstegge",52.420490,6.735487
+51299,NL,Nederland,Noord-Brabant,NB,NULL,NULL,'s-Hertogenbosch,Maaspoort,"5235 VJ","De Staatsliedenbuurt",Huigepolder,51.731461,5.302584
+133421,NL,Nederland,Limburg,LI,NULL,NULL,Tegelen,Tegelen-Centrum,"5931 MD",Bosserhof,"Heren Van Tegelen",51.347221,6.143795
+6383,NL,Nederland,Noord-Holland,NH,NULL,NULL,Huizen,Bovenmaten,"1274 SC","Bovenmaat West",Oostermeent-Noord,52.294842,5.264059
+41459,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Eindhoven,Oud-Strijp,"5616 VE",Schoot,Rietputten,51.442158,5.451318
+50324,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Moerdijk,NULL,"4781 AV",NULL,Klaverstraat,51.702427,4.629279
+61718,NL,Nederland,Overijssel,OV,NULL,NULL,Haaksbergen,NULL,"7481 HD","Haaksbergen Kern-3","Doctor Schaepmanstraat",52.152199,6.740366
+7574,NL,Nederland,Noord-Holland,NH,NULL,NULL,Diemen,NULL,"1113 GS",Scheepskwartier,Galjoen,52.348934,4.980561
+59829,NL,Nederland,Overijssel,OV,NULL,NULL,Hengelo,Slangenbeek,"7559 CE",Roershoek,Levantstraat,52.290615,6.815550
+115424,NL,Nederland,Groningen,GR,NULL,NULL,Ulrum,NULL,"9971 AR",NULL,Akkerstraat,53.360645,6.332873
+39355,NL,Nederland,Noord-Brabant,NB,NULL,NULL,"Beek en Donk",NULL,"5741 DN",Donk,"De Els",51.540962,5.621065
+39940,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Geldrop,NULL,"5667 JE",Braakhuizen-Noord,Sporkehout,51.434940,5.572316
+120461,NL,Nederland,Zeeland,ZE,NULL,NULL,Domburg,NULL,"4357 ST",NULL,Strandpaal,51.555679,3.486774
+84701,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Middelharnis,NULL,"3241 GW","Middelharnis centrum",Wilhelminastraat,51.758617,4.158161
+141118,NL,Nederland,Utrecht,UT,NULL,NULL,Houten,"Houten Zuid","3991 MP",Waters,Hemelwater,52.015656,5.165218
+114186,NL,Nederland,Groningen,GR,NULL,NULL,Groningen,Zuidwest,"9728 HD","Corpus den Hoorn","Henri Dunantlaan",53.195415,6.559329
+48170,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Hoeven,NULL,"4741 AD",NULL,Hertenlaan,51.581043,4.588661
+52805,NL,Nederland,Noord-Brabant,NB,NULL,NULL,'s-Hertogenbosch,West,"5223 AM",Boschveld,Parallelweg,51.695652,5.293647
+4745,NL,Nederland,Noord-Holland,NH,NULL,NULL,Beverwijk,Vondelkwartier,"1942 ES","Ronde Boogaard","Kees Delfsweg",52.484386,4.653457
+129158,NL,Nederland,Limburg,LI,NULL,NULL,Hulsberg,NULL,"6336 VC",NULL,Rembrandtstraat,50.887096,5.855987
+80369,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Hillegersberg,"3055 AA",Molenlaankwartier,Chabotlaan,51.957893,4.498620
+127905,NL,Nederland,Limburg,LI,NULL,NULL,Echt,NULL,"6101 VV",Gebroek,Gebroekerdijk,51.093868,5.871493
+64739,NL,Nederland,Overijssel,OV,NULL,NULL,Haaksbergen,NULL,"7482 WD","Veldmaat 2","De Berk",52.168365,6.749438
+41007,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Eindhoven,Aanschot,"5629 PM",Blixembosch-Oost,"Emile Zolaplein",51.490108,5.469482
+9687,NL,Nederland,Noord-Holland,NH,NULL,NULL,Badhoevedorp,NULL,"1171 TK","Badhoevedorp Zuid",Papegaaistraat,52.333946,4.780658
+108556,NL,Nederland,Gelderland,GE,NULL,NULL,Tiel,NULL,"4001 NW",Binnenstad,Andreashof,51.885822,5.430148
+101201,NL,Nederland,Gelderland,GE,NULL,NULL,Heteren,NULL,"6666 HS",Melkweide,Zesmorgen,51.955791,5.746856
+83483,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Maassluis,Sluispolder,"3141 AT","Sluispolder West","Petrus Kockstraat",51.922394,4.258299
+28907,NL,Nederland,Flevoland,FL,NULL,NULL,Lelystad,NULL,"8222 RB",Beginweg,Bronsweg,52.541256,5.505821
+4244,NL,Nederland,Noord-Holland,NH,NULL,NULL,Bergen,"Bergen Binnen","1862 AX",Negen-Nessen,Stresemann-Nes,52.678074,4.701505
+30471,NL,Nederland,Flevoland,FL,NULL,NULL,Lelystad,Kustwijk,"8242 EC",Punter,"Punter 31",52.514797,5.449382
+143088,NL,Nederland,Utrecht,UT,NULL,NULL,Utrecht,Overvecht,"3563 CL",Vechtzoom-zuid,Braziliëdreef,52.118332,5.103306
+101861,NL,Nederland,Gelderland,GE,NULL,NULL,Nijmegen,NULL,"6533 KM",Grootstal,Copernicusstraat,51.809116,5.843661
+1696,NL,Nederland,Noord-Holland,NH,NULL,NULL,Wormer,NULL,"1531 WN",Plaszoom,Gruttostraat,52.500473,4.812689
+19348,NL,Nederland,Drenthe,DR,NULL,NULL,Hijken,NULL,"9415 PP",NULL,"De Woert",52.894844,6.495355
+129525,NL,Nederland,Limburg,LI,NULL,NULL,Oirsbeek,"Amstenrade - Oirsbeek","6438 HG",NULL,"Verlengde Lindelaan",50.949051,5.908774
+105142,NL,Nederland,Gelderland,GE,NULL,NULL,Harderwijk,Stadsweiden,"3844 XG",Vogelwaard,Kievitmeen,52.334167,5.600853
+43486,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Bergeijk,"Bergeijk 't Hof","5571 MJ",Schutsboom,Tamboer,51.323509,5.372120
+77322,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Noordwijkerhout,NULL,"2212 TK",NULL,"Sint Pieterstraat",52.266865,4.489323
+16729,NL,Nederland,Drenthe,DR,NULL,NULL,Drouwen,NULL,"9533 PZ",NULL,Bosweg,52.955635,6.795242
+98069,NL,Nederland,Gelderland,GE,NULL,NULL,Duiven,NULL,"6921 KA","Oud Zuid",Gorsstraat,51.944534,6.014432
+56996,NL,Nederland,Overijssel,OV,NULL,NULL,Zwolle,Aa-landen,"8032 TJ",Aa-landen-Noord,Drostendiep,52.538830,6.097439
+144001,NL,Nederland,Utrecht,UT,NULL,NULL,Woerden,NULL,"3446 JT",Waterrijk,"Meer Van Annecy",52.085445,4.918449
+44122,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Boxtel,NULL,"5281 CX",Boxtel-Centrum,Kasteellaan,51.585316,5.321392
+132985,NL,Nederland,Limburg,LI,NULL,NULL,Eijsden,NULL,"6245 TA","Verspreide huizen",Boterbloem,50.782089,5.721370
+135388,NL,Nederland,Utrecht,UT,NULL,NULL,Amersfoort,Rustenburg,"3815 NN",Rustenburg-Noord,Geallieerdenstraat,52.170563,5.413661
+66606,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Bergambacht,NULL,"2861 VR",Uitbreiding,Abeel,51.934792,4.791012
+21900,NL,Nederland,Friesland,FR,NULL,NULL,Oudega,NULL,"9216 VA",NULL,Goartersreed,53.125725,5.999431
+95825,NL,Nederland,Gelderland,GE,NULL,NULL,Apeldoorn,Zuid,"7331 VA",Brummelhof,Vinkenlaan,52.205997,5.970416
+83933,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Hoek van Holland",NULL,"3151 HR","Strand en Duin",Stationsweg,51.978546,4.123885
+103553,NL,Nederland,Gelderland,GE,NULL,NULL,Heerewaarden,NULL,"6624 AG",NULL,Schokkerstraat,51.817356,5.392863
+109259,NL,Nederland,Gelderland,GE,NULL,NULL,Elst,Westeraam,"6661 JN",Lingebuurt,Germaan,51.927197,5.862447
+116180,NL,Nederland,Groningen,GR,NULL,NULL,Meerstad,Meerstad,"9613 CB",Tersluis,Wierdijk,53.234562,6.656900
+18763,NL,Nederland,Drenthe,DR,NULL,NULL,Ruinen,NULL,"7963 BX",NULL,"Groene Weg",52.759121,6.358783
+133721,NL,Nederland,Limburg,LI,NULL,NULL,Sittard,NULL,"6134 RE",Ophoven,Amberhof,50.993336,5.854648
+125812,NL,Nederland,Limburg,LI,NULL,NULL,Schinveld,Onderbanken,"6451 JL",NULL,"Op De Keuken",50.968250,5.974305
+78098,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag","Geuzen- en Statenkwartier","2582 HB",Statenkwartier,Frankenslag,52.096245,4.276122
+78746,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Klaaswaal,NULL,"3286 VD",NULL,Korenbloemstraat,51.774406,4.447115
+144406,NL,Nederland,Utrecht,UT,NULL,NULL,Vleuten,"Vleuten-De Meern","3451 MA",NULL,Haarzichtsingel,52.113968,5.010093
+126692,NL,Nederland,Limburg,LI,NULL,NULL,Heerlen,Heerlerbaan-Centrum,"6418 XD",Heerlerbaan-Oost,"Peter Schunckstraat",50.864285,6.009064
+114051,NL,Nederland,Groningen,GR,NULL,NULL,Groningen,Centrum,"9711 TG",Oost,Achterom,53.218647,6.575376
+16090,NL,Nederland,Drenthe,DR,NULL,NULL,Assen,NULL,"9404 BD","Vredeveld Noord",Oosterpark,52.993305,6.575699
+121496,NL,Nederland,Zeeland,ZE,NULL,NULL,Terneuzen,NULL,"4533 JD",Othene,Orteliusschans,51.323959,3.867314
+137492,NL,Nederland,Utrecht,UT,NULL,NULL,Soest,"'t Hart-Soestdijk","3762 SN","'t Hart",Thorbeckestraat,52.182953,5.275706
+129773,NL,Nederland,Limburg,LI,NULL,NULL,Sittard,NULL,"6133 VP",Ophoven,Poolsterstraat,50.983349,5.857398
+40697,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Eindhoven,Aanschot,"5628 TT",Tempel,Scherpenheuvellaan,51.480518,5.481753
+138276,NL,Nederland,Utrecht,UT,NULL,NULL,Utrecht,Overvecht,"3562 AV","Neckardreef en omgeving","Jaap Edendreef",52.118153,5.124148
+103043,NL,Nederland,Gelderland,GE,NULL,NULL,Boven-Leeuwen,NULL,"6657 DH",NULL,Zonnewoud,51.886326,5.553995
+132670,NL,Nederland,Limburg,LI,NULL,NULL,Weert,Boshoven,"6002 VK",Boshoven-Vrakker,Exaten,51.260803,5.688110
+28844,NL,Nederland,Flevoland,FL,NULL,NULL,Lelystad,Kustwijk,"8242 JC",Saerdam,Saerdam,52.513676,5.438089
+52997,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Eersel,NULL,"5521 WN",Kerkebogten,Waterkuil,51.356007,5.328612
+7045,NL,Nederland,Noord-Holland,NH,NULL,NULL,Naarden,NULL,"1411 PC","Naarden Vesting",Westwalstraat,52.294353,5.159264
+67410,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Nieuw-Lekkerland,NULL,"2957 XR",Nieuw-Lekkerland-Dorp,Weidemolen,51.885822,4.687306
+115775,NL,Nederland,Groningen,GR,NULL,NULL,Baflo,NULL,"9953 TL",Baflo,Buizerd,53.360706,6.524667
+102745,NL,Nederland,Gelderland,GE,NULL,NULL,Ede,Maandereng,"6717 SN",Elskamp,"Van Ostadestraat",52.017578,5.652845
+85345,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Leiden,NULL,"2315 AP","De Kooi","Pieter Bothstraat",52.168495,4.505608
+82431,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Vlaardingen,"Vlaardinger Ambacht","3135 RB","Babberspolder Oost","Adriaan Pauwstraat",51.913788,4.361681
+75889,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Wassenaar,"Noordoostelijk deel der gemeente","2241 JM","Groot Deijleroord en Ter Weer","Van Naeltwijckstraat",52.143707,4.408435
+107915,NL,Nederland,Gelderland,GE,NULL,NULL,Harderwijk,Stadsdennen,"3842 GK",Stadsdennen-Zuidwest,"Melis Stokelaan",52.341099,5.637892
+7428,NL,Nederland,Noord-Holland,NH,NULL,NULL,Weesp,"De Hogeweyk","1382 BT","Hogewey Zuid",Keulsevaartstraat,52.309101,5.028758
+10400,NL,Nederland,Noord-Holland,NH,NULL,NULL,Nieuw-Vennep,NULL,"2151 BL","Nieuw-Vennep West",Ploegstraat,52.267620,4.623082
+142992,NL,Nederland,Utrecht,UT,NULL,NULL,Hooglanderveen,NULL,"3829 ES",Lient,Zeisum,52.182835,5.427789
+31677,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Bakel,NULL,"5761 CG",NULL,Kerksedriessen,51.505417,5.739074
+61437,NL,Nederland,Overijssel,OV,NULL,NULL,Wierden,"Rectum - Notter - Zuna","7642 ND",Rectum,Ypeloschoolweg,52.327408,6.582800
+2886,NL,Nederland,Noord-Holland,NH,NULL,NULL,Uitgeest,NULL,"1911 AB",Oude,"De Terp",52.520119,4.709625
+2771,NL,Nederland,Noord-Holland,NH,NULL,NULL,Krommenie,NULL,"1561 EB",Noorderhoofdbuurt,Badhuislaan,52.499672,4.766452
+39065,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Gemert,NULL,"5422 CA",Gemert-Oost,Donk,51.555836,5.705526
+75994,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Wassenaar,"Noordoostelijk deel der gemeente","2242 VT",Oostdorp,Rozensteinstraat,52.150051,4.394858
+106383,NL,Nederland,Gelderland,GE,NULL,NULL,Beusichem,NULL,"4112 LG",NULL,"Burgemeester Van Everdingenstraat",51.948299,5.288746
+94868,NL,Nederland,Gelderland,GE,NULL,NULL,Zutphen,"Centrum - De Hoven","7201 NH","Nieuwstad en Coehoornsingel",Nieuwstadskerksteeg,52.144714,6.197968
+44225,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Moergestel,"Centrum Moergestel","5066 AS","Centrum Moergestel",Kerkstraat,51.544464,5.182656
+121735,NL,Nederland,Zeeland,ZE,NULL,NULL,Schoondijke,NULL,"4507 AR",NULL,Willemsweg,51.344837,3.564249
+98788,NL,Nederland,Gelderland,GE,NULL,NULL,Angeren,NULL,"6687 AG",NULL,Kerkstraat,51.916916,5.959691
+1816,NL,Nederland,Noord-Holland,NH,NULL,NULL,Zaandam,NULL,"1509 EJ",Kalf,Buurserbeek,52.469604,4.835248
+15378,NL,Nederland,Noord-Holland,NH,NULL,NULL,Nieuw-Vennep,NULL,"2152 SR","Nieuw-Vennep Getsewoud Noord",Foxtrot,52.277328,4.630252
+27768,NL,Nederland,Flevoland,FL,NULL,NULL,Emmeloord,NULL,"8302 LT","Emmeloord-de Erven",Terschelling,52.722218,5.736274
+29698,NL,Nederland,Flevoland,FL,NULL,NULL,Almere,NULL,"1316 VG",Noorderplassen,Lijzijde,52.391155,5.206293
+7504,NL,Nederland,Noord-Holland,NH,NULL,NULL,Muiden,Muiden,"1398 BB","Vesting Muiden",Westzeedijk,52.333332,5.068807
+113387,NL,Nederland,Groningen,GR,NULL,NULL,Hoogezand,NULL,"9602 PR",Gorecht-Noord,"Donker Curtiusstraat",53.156078,6.749160
+67934,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Hendrik-Ido-Ambacht,Centrum,"3342 XM",Dorp,Warmoeziershof,51.846584,4.632740
+26487,NL,Nederland,Friesland,FR,NULL,NULL,Dokkum,NULL,"9101 SP","De Trije Terpen",Lytselaard,53.316513,5.980505
+31751,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Deurne,NULL,"5753 BD","Sint Jozefparochie","Dirk Boutsstraat",51.453259,5.784725
+114943,NL,Nederland,Groningen,GR,NULL,NULL,Kornhorn,NULL,"9864 PP",NULL,Klaverweide,53.182709,6.241651
+34324,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Oss,Centrum,"5341 BR",Centrum-Noord,Koornstraat,51.771893,5.524835
+96894,NL,Nederland,Gelderland,GE,NULL,NULL,Nunspeet,NULL,"8071 GV",Nunspeet-West,Marktstraat,52.377407,5.783222
+28378,NL,Nederland,Flevoland,FL,NULL,NULL,Urk,NULL,"8321 CX","De Top",Noorderpalen,52.668156,5.609933
+143588,NL,Nederland,Utrecht,UT,NULL,NULL,Woudenberg,NULL,"3931 SP","Nico Bergsteijn",Vermeulenhof,52.084278,5.423604
+71089,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Dordrecht,Sterrenburg,"3318 BD","Sterrenburg 1-Oost",Castorstraat,51.787807,4.680232
+115427,NL,Nederland,Groningen,GR,NULL,NULL,Ulrum,NULL,"9971 CJ",NULL,Singel,53.357147,6.337917
+142757,NL,Nederland,Utrecht,UT,NULL,NULL,Utrecht,"Leidsche Rijn","3543 JS",Terwijde-West,"Edmund Eyslerstraat",52.105072,5.034682
+135311,NL,Nederland,Utrecht,UT,NULL,NULL,Leusden,"'t Ruige Veld","3831 RB","'t Ruige Veld","'t Koendert",52.141891,5.426207
+99097,NL,Nederland,Gelderland,GE,NULL,NULL,Beek,NULL,"6573 AM",Beek-Oost,Sperwerstraat,51.828865,5.934102
+97655,NL,Nederland,Gelderland,GE,NULL,NULL,Giesbeek,NULL,"6987 DD",NULL,Bronkhorstermaat,51.991489,6.064428
+21215,NL,Nederland,Friesland,FR,NULL,NULL,Gorredijk,NULL,"8401 TV","Gorredijk-Groene Long","De Helling",53.000683,6.074245
+34133,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Heesch,NULL,"5384 MJ","Monseigneur van Den Hurklaan",Heufke,51.735882,5.523148
+7457,NL,Nederland,Utrecht,UT,NULL,NULL,Nigtevecht,NULL,"1393 NR",NULL,Hoekerstraat,52.274151,5.029204
+4902,NL,Nederland,Noord-Holland,NH,NULL,NULL,Santpoort-Noord,Santpoort,"2071 ES",Santpoort-Dorp,Beekvlietstraat,52.433376,4.646620
+113306,NL,Nederland,Groningen,GR,NULL,NULL,Wildervank,NULL,"9648 DE","Verspreide huizen",Parelduiker,53.084152,6.856568
+67620,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Alblasserdam,Centrum,"2951 CA",Cortgene,Goudenregenstraat,51.865810,4.655068
+106928,NL,Nederland,Utrecht,UT,NULL,NULL,Kedichem,NULL,"4247 ES",NULL,"Michiel Van Loonstraat",51.861076,5.051721
+85030,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rockanje,NULL,"3235 VJ",Zuidhoek,Olmenhorst,51.872368,4.069731
+64386,NL,Nederland,Overijssel,OV,NULL,NULL,Enschede,NULL,"7532 CC",Bentveld-Bultserve,"Willem Bontekoestraat",52.218040,6.963928
+120571,NL,Nederland,Zeeland,ZE,NULL,NULL,Vlissingen,Middengebied,"4382 XJ","Bloemenlaan  Oost",Boterbloemlaan,51.451591,3.578070
+46748,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Breda,"Breda zuid","4834 SN",Overakker,Wolfslaardreef,51.561092,4.801370
+52377,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Prinsenbeek,NULL,"4841 TW",NULL,Weefraam,51.592323,4.721796
+107299,NL,Nederland,Gelderland,GE,NULL,NULL,Culemborg,NULL,"4101 KK","Noordoostelijke Buitenwijken",Barbaralaantje,51.959286,5.227262
+124156,NL,Nederland,Limburg,LI,NULL,NULL,Sevenum,NULL,"5975 XT",NULL,"Van Reiffenburgstraat",51.412735,6.042377
+86426,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Zoetermeer,Oosterheem,"2721 LM",Oosterheem-Zuid-West,Cyprus,52.053631,4.533866
+144588,NL,Nederland,Utrecht,UT,NULL,NULL,"Bosch en Duin",NULL,"3735 LJ",NULL,Amersfoortseweg,52.110874,5.244565
+7083,NL,Nederland,Noord-Holland,NH,NULL,NULL,Naarden,NULL,"1412 ES",Ministerpark,Kolfbaan,52.279694,5.146017
+117630,NL,Nederland,Zeeland,ZE,NULL,NULL,Vogelwaarde,NULL,"4581 AX",Boschkapelle,Schakeldreef,51.325619,3.979403
+143140,NL,Nederland,Utrecht,UT,NULL,NULL,Utrecht,Zuidwest,"3521 VE",Dichterswijk,"Jacob Catsstraat",52.082066,5.112780
+98948,NL,Nederland,Gelderland,GE,NULL,NULL,Angeren,NULL,"6687 EC",NULL,"Nije Wei",51.911938,5.951351
+86374,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Hoornaar,NULL,"4223 MA",Hoornaar-Dorp,"Kromme Giessen",51.877880,4.949384
+73874,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Zoetermeer,Seghwaert,"2723 VV",Seghwaert-Noord-Oost,Lupineakker,52.064472,4.518967
+79476,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Charlois,"3082 BH","Oud Charlois","Karel De Stoutestraat",51.892288,4.469947
+144395,NL,Nederland,Utrecht,UT,NULL,NULL,"De Meern","Vleuten-De Meern","3454 NM","De Meern-Noord",Savelseboslaan,52.088276,5.038206
+20681,NL,Nederland,Drenthe,DR,NULL,NULL,Hoogeveen,NULL,"7906 GA",NULL,Boekenberghstraat,52.715691,6.482806
+144442,NL,Nederland,Utrecht,UT,NULL,NULL,Leusden,Leusden-Centrum,"3831 JX","Leusden-Centrum Oost",Kanaalweg,52.129807,5.447145
+86681,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag","Wateringse Veld","2548 ZD","Zonne Veld","Eduard Verkadelaan",52.017094,4.295362
+2895,NL,Nederland,Noord-Holland,NH,NULL,NULL,Assendelft,NULL,"1566 TG",NULL,Rietwijkstraat,52.464661,4.741737
+41537,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Eindhoven,"Gestelse Ontginning","5655 HN",Hanevoet,Jongemastate,51.413624,5.440734
+124028,NL,Nederland,Limburg,LI,NULL,NULL,Swolgen,NULL,"5866 BV",NULL,Pastoorswal,51.491066,6.116120
+71568,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Noorden,NULL,"2431 XG","Uitbreiding dorpskern Noorden",Chrysantenstraat,52.167194,4.827504
+83749,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,'s-Gravenzande,NULL,"2693 AP","Nieuwe Vaart",Rietzanger,52.001865,4.177349
+33737,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Veghel,NULL,"5463 AH","Leest Noord",Taaghof,51.610966,5.542340
+113124,NL,Nederland,Groningen,GR,NULL,NULL,Noordbroek,NULL,"9635 AR",NULL,Havenstraat,53.192467,6.870051
+113827,NL,Nederland,Groningen,GR,NULL,NULL,Groningen,Oud,"9714 JP",Professorenbuurt,"Star Numanstraat",53.231380,6.577454
+5418,NL,Nederland,Noord-Holland,NH,NULL,NULL,"Egmond aan den Hoef",NULL,"1934 ES",NULL,"Prins Bernhardlaan",52.624790,4.655489
+20468,NL,Nederland,Drenthe,DR,NULL,NULL,Hoogeveen,NULL,"7906 BW",NULL,Houthaven,52.717991,6.479344
+134557,NL,Nederland,Utrecht,UT,NULL,NULL,Leersum,NULL,"3956 XR",NULL,Prinses-Irenelaan,52.014954,5.425368
+5640,NL,Nederland,Noord-Holland,NH,NULL,NULL,Wieringerwaard,NULL,"1766 KL",NULL,Kievitlaan,52.840233,4.866488
+87376,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Honselersdijk,NULL,"2675 VD",Burgemeesterswijk,Hartwigsenstraat,52.010033,4.235815
+42142,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Liempde,NULL,"5298 TT",NULL,Hogenbergseweg,51.570107,5.361495
+55199,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Aarle-Rixtel,NULL,"5735 DW",NULL,Mimosaplantsoen,51.510532,5.647139
+137005,NL,Nederland,Utrecht,UT,NULL,NULL,Odijk,NULL,"3984 PR",NULL,Werdorperwaard,52.055744,5.240323
+15940,NL,Nederland,Drenthe,DR,NULL,NULL,Assen,Marsdijk,"9403 PM","De Hoven",Huningahof,53.015690,6.578144
+92835,NL,Nederland,Gelderland,GE,NULL,NULL,Varsseveld,NULL,"7051 CE",NULL,"Burgemeester Karstenstraat",51.937828,6.457034
+33911,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Vinkel,NULL,"5382 JX",Vinkeloord,"Toegangsweg Soperse Bos",51.706944,5.429862
+74837,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Leiden,Morsdistrict,"2332 ZN","Hoge Mors",Onafhankelijkheidsweg,52.158348,4.456161
+8316,NL,Nederland,Noord-Holland,NH,NULL,NULL,Amstelveen,"Keizer Karelpark","1185 PE",Augustinuspark,"Dr. Allard Piersonstraat",52.291138,4.859594
+50636,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Willemstad,Helwijk,"4797 HK",Helwijk,"Koningin Emmastraat",51.676834,4.431560
+54058,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Heusden,"Heusden wonen","5725 DB","Heusden centrum",Korenveld,51.384632,5.769152
+43093,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Valkenswaard,NULL,"5552 MA","Het Gegraaf",Mahonia,51.366604,5.447798
+40880,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Eindhoven,Erp,"5622 BK",Kronehoef,"Thomas Vincidorstraat",51.456211,5.463088
+70363,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Feijenoord,"3071 GA",Feijenoord,Nassaubrug,51.914032,4.507173
+90357,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Capelle aan den IJssel",Middelwatering,"2903 WB",Alkenoord,Parelduiker,51.931080,4.591609
+21945,NL,Nederland,Friesland,FR,NULL,NULL,Nes,NULL,"8494 PE",NULL,"De Seine",53.055836,5.845546
+49987,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Breda,NULL,"4826 GC",Wisselaar,Vlimmerenstraat,51.611908,4.788320
+136842,NL,Nederland,Utrecht,UT,NULL,NULL,Zeist,NULL,"3705 KH",Staatsliedenkwartier,Schaperlaan,52.100433,5.240819
+51934,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Someren,Someren-Eind,"5712 CM",Someren-Eind,Kampstraat,51.356758,5.730005
+33482,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Uden,NULL,"5402 AK",Bitswijk,Altstraat,51.672417,5.618163
+74777,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Leiden,Boerhaavedistrict,"2333 VT",Vogelwijk,Mezenstraat,52.171925,4.469721
+122454,NL,Nederland,Limburg,LI,NULL,NULL,Velden,NULL,"5941 ED",Hasselderheide,Sparrenlaan,51.424580,6.173763
+21275,NL,Nederland,Friesland,FR,NULL,NULL,Nieuwehorne,NULL,"8414 LL",NULL,Molenweg,52.951229,6.062975
+61427,NL,Nederland,Overijssel,OV,NULL,NULL,Enter,NULL,"7468 GP",Enter-Oost,Muldershof,52.301517,6.579008
+90702,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Gouda,Bloemendaal,"2803 VM","Windrooskwartier en Heesterbuurt",Gaspeldoornlaan,52.024124,4.694421
+139713,NL,Nederland,Utrecht,UT,NULL,NULL,Utrecht,Noordwest,"3554 VR",Geuzenwijk,"Rochus Meeuwiszstraat",52.113464,5.096090
+87710,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Schiedam,NULL,"3124 TN","Sveaborg en -Dal","Astrid Lindgrenborg",51.945114,4.382028
+9588,NL,Nederland,Noord-Holland,NH,NULL,NULL,Amsterdam,Slotermeer,"1064 LJ","Buurt 5 Zuid","Paulus Van Hemertstraat",52.374889,4.811140
+69351,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,"Prins Alexander","3067 XN","Het Lage Land","Van Opbergenstraat",51.942146,4.540057
+63481,NL,Nederland,Overijssel,OV,NULL,NULL,Deventer,"Wijk 3 Zandweerd","7412 PN",Schrijversbuurt,"P.C. Hooftlaan",52.267269,6.138668
+96836,NL,Nederland,Gelderland,GE,NULL,NULL,Nunspeet,NULL,"8072 ZK",Nunspeet-Oost,"Jan Van Vuurenstraat",52.387836,5.795731
+142822,NL,Nederland,Utrecht,UT,NULL,NULL,Veenendaal,Noordwest,"3905 ZK","'t Hoorntje",Gladiolenstraat,52.032749,5.544088
+48247,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Oudenbosch,NULL,"4731 CB",Pagnevaart,Esdoornstraat,51.586555,4.541923
+103032,NL,Nederland,Gelderland,GE,NULL,NULL,IJzendoorn,Echteld,"4053 JR",NULL,"De Wielewaal",51.906635,5.536836
+110818,NL,Nederland,Gelderland,GE,NULL,NULL,Barneveld,NULL,"3771 WJ",NULL,"J.T. Kuyckstraat",52.153439,5.569547
+64051,NL,Nederland,Overijssel,OV,NULL,NULL,Zwolle,Binnenstad,"8011 TW",Noord,Broerenkerkplein,52.513741,6.094618
+81904,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Vlaardingen,Holy,"3136 CD","Loper Zuid","Amalia Van Solmslaan",51.930485,4.347264
+2436,NL,Nederland,Noord-Holland,NH,NULL,NULL,Akersloot,NULL,"1921 EH","Akersloot West",Händelstraat,52.562809,4.730830
+127680,NL,Nederland,Limburg,LI,NULL,NULL,Koningsbosch,NULL,"6104 RR",Spaanshuisken,Spaanshuisken,51.035854,5.956426
+39140,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Gemert,NULL,"5422 AD",Gemert-Oost,Kouter,51.558609,5.700199
+59510,NL,Nederland,Overijssel,OV,NULL,NULL,Hertme,NULL,"7626 LP",NULL,Kerkweg,52.323177,6.760768
+133161,NL,Nederland,Limburg,LI,NULL,NULL,Herten,NULL,"6049 DX",Merum,Roodakker,51.170639,5.965660
+89402,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Hoogvliet,Hoogvliet,"3191 SB","Hoogvliet Zuid",Bijster,51.862991,4.365636
+1188,NL,Nederland,Noord-Holland,NH,NULL,NULL,Edam,NULL,"1135 BA","Edam-Oude kom",Spui,52.512566,5.048409
+76540,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag",NULL,"2592 HA","Burgen en Horsten","De Horst",52.093384,4.359944
+127133,NL,Nederland,Limburg,LI,NULL,NULL,"Sint Odiliënberg",NULL,"6077 HE",NULL,Eikenboomweg,51.140232,5.991740
+86484,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Krimpen aan den IJssel",NULL,"2925 DM",Langeland,Amaniet,51.923771,4.624189
+123143,NL,Nederland,Limburg,LI,NULL,NULL,Swalmen,NULL,"6071 TW","Martin Giessen-Bosstraat","Pastoor Cloquetstraat",51.239216,6.046858
+104796,NL,Nederland,Gelderland,GE,NULL,NULL,Ermelo,NULL,"3852 BS",Ermelo-Oost,Reviuslaan,52.301826,5.635719
+112274,NL,Nederland,Groningen,GR,NULL,NULL,Scheemda,NULL,"9679 KE",NULL,Molenpad,53.179935,6.966650
+141765,NL,Nederland,Utrecht,UT,NULL,NULL,Lopik,NULL,"3411 VC",Lopik-Dorp,"Dirck Van Delenlaan",51.972935,4.938827
+2527,NL,Nederland,Noord-Holland,NH,NULL,NULL,"Koog aan de Zaan",NULL,"1541 GL","Oud Koog","Prins Hendrikstraat",52.462067,4.806782
+87431,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag","Wateringse Veld","2548 LZ","Hoge Veld",Gaasterlandlaan,52.035797,4.292250
+40943,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Eindhoven,Erp,"5622 HJ",Barrier,"Salomon De Braystraat",51.462799,5.459901
+73595,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Leiden,Merenwijkdistrict,"2317 AB",Slaaghwijk,Kraaienhorst,52.172108,4.508731
+137102,NL,Nederland,Utrecht,UT,NULL,NULL,Soest,NULL,"3768 ER","Soest Zuid",Driftje,52.164879,5.307338
+58661,NL,Nederland,Overijssel,OV,NULL,NULL,Enschede,NULL,"7544 HS","Wesselerbrink Zuid-Oost",Eibergenbrink,52.188656,6.879827
+141254,NL,Nederland,Utrecht,UT,NULL,NULL,Leerdam,NULL,"4142 XT",Leerdam-West,Tulpstraat,51.886471,5.082030
+53134,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Diessen,NULL,"5087 CS",NULL,Meiraap,51.477230,5.166325
+96905,NL,Nederland,Gelderland,GE,NULL,NULL,Nunspeet,NULL,"8071 VL",Nunspeet-West,Beethovenlaan,52.379871,5.771504
+64497,NL,Nederland,Overijssel,OV,NULL,NULL,Haaksbergen,NULL,"7483 CP","Veldmaat ten noorden van de spoorlijn",Steenbreek,52.168854,6.738898
+4007,NL,Nederland,Noord-Holland,NH,NULL,NULL,Alkmaar,West,"1817 CK","Bergerhof en Blaeustraatkwartier",Akeleistraat,52.639721,4.740506
+144712,NL,Nederland,Utrecht,UT,NULL,NULL,Amersfoort,"Vathorst-De Laak","3826 DK","De Laak Oost",Schiermonnikooghof,52.195801,5.436857
+46942,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Breda,NULL,"4826 KT",Biesdonk,Belgiëplein,51.605812,4.784401
+96595,NL,Nederland,Gelderland,GE,NULL,NULL,Vaassen,NULL,"8172 VT","Krugerstraat Zuid",Westerenkweg,52.285156,5.955816
+107799,NL,Nederland,Gelderland,GE,NULL,NULL,Heumen,NULL,"6582 CV",NULL,Keltenstraat,51.767654,5.844621
+52555,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Andel,NULL,"4281 JJ",NULL,Kroonsappel,51.781883,5.050126
+119407,NL,Nederland,Zeeland,ZE,NULL,NULL,Hoek,NULL,"4542 CC",NULL,Noordstraat,51.311508,3.776980
+66216,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Dordrecht,Dubbeldam,"3319 HB",Dubbeldam-Noord,Bremstraat,51.795410,4.710025
+11361,NL,Nederland,Noord-Holland,NH,NULL,NULL,Haarlem,Slachthuiswijk,"2033 GE",Kruistochtbuurt,"Vier Sterrenstraat",52.375652,4.646896
+90996,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Monster,NULL,"2681 TG","Kleine Geest en Molenwijk",Meidoornstraat,52.026882,4.171917
+2175,NL,Nederland,Noord-Holland,NH,NULL,NULL,Alkmaar,NULL,"1823 CA","Rekerbuurt en Ooievaarsnest",Frieseweg,52.635933,4.756988
+9032,NL,Nederland,Noord-Holland,NH,NULL,NULL,Amsterdam,Kadoelen,"1035 XA",Kadoelen,Diatomastraat,52.420094,4.899017
+31924,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Asten,NULL,"5721 KZ","Centrum zuid","Jan Vriendshof",51.399048,5.740424
+86772,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Maasdijk,NULL,"2676 VP",maasdijk,Prinsenlaan,51.957352,4.216880
+77492,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag","Wateringse Veld","2548 SB","Parkbuurt oosteinde",Moermondstraat,52.024956,4.290328
+59384,NL,Nederland,Overijssel,OV,NULL,NULL,Weerselo,NULL,"7595 CA",Reestman,Kolberinksmaat,52.355801,6.855488
+94079,NL,Nederland,Gelderland,GE,NULL,NULL,Borculo,NULL,"7271 DP","Nieuw Boer",Zijlandstraat,52.111172,6.516974
+115249,NL,Nederland,Groningen,GR,NULL,NULL,Ezinge,NULL,"9891 BJ",Ezinge,"Van Giffenstraat",53.310101,6.446345
+143997,NL,Nederland,Utrecht,UT,NULL,NULL,Zeist,NULL,"3708 XD",Kerckebosch,"Prinses Alexialaan",52.074879,5.266314
+111538,NL,Nederland,Groningen,GR,NULL,NULL,"Ten Post",NULL,"9792 PS",NULL,Tuwingastraat,53.298500,6.726170
+20002,NL,Nederland,Drenthe,DR,NULL,NULL,Eelde,NULL,"9761 LV",NULL,Fluitekruid,53.143204,6.551427
+136828,NL,Nederland,Utrecht,UT,NULL,NULL,Zeist,NULL,"3705 VK",Staatsliedenkwartier,Talmalaan,52.101891,5.239894
+121908,NL,Nederland,Zeeland,ZE,NULL,NULL,Kloosterzande,NULL,"4587 LD","Hoek en Bosch",Oudeweg,51.362541,4.019449
+142531,NL,Nederland,Utrecht,UT,NULL,NULL,Vleuten,"Vleuten-De Meern","3452 LC",Vleuterweide-Noord-Oost-Centrum,Beerschoten,52.096737,5.015186
+38981,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Helmond,"'t Hout","5707 JD",Kroon,Suurhoffstraat,51.471317,5.639469
+109803,NL,Nederland,Gelderland,GE,NULL,NULL,Ermelo,NULL,"3851 WP","Buurt Ermelo ten dele bij de","Nelson Mandelahof",52.288067,5.619410
+138207,NL,Nederland,Utrecht,UT,NULL,NULL,Utrecht,Overvecht,"3561 BN","Wolga- en Donaudreef en omgeving",Agamemnondreef,52.115238,5.132831
+61984,NL,Nederland,Overijssel,OV,NULL,NULL,Rijssen,NULL,"7461 KE",NULL,Grotestraat,52.308746,6.522301
+86692,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Wateringen,NULL,"2292 CC",Essellanden,Kervelstraat,52.018326,4.286263
+108775,NL,Nederland,Gelderland,GE,NULL,NULL,Hengelo,NULL,"7255 GA",NULL,Schoenmakersplein,52.051609,6.308803
+61702,NL,Nederland,Overijssel,OV,NULL,NULL,Haaksbergen,NULL,"7481 JV","Haaksbergen Kern-4",Sterkerstraat,52.153679,6.734288
+132557,NL,Nederland,Limburg,LI,NULL,NULL,Weert,NULL,"6003 CN",Molenakker,Achtkantmolen,51.265179,5.719086
+31194,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Nuenen,NULL,"5671 BV",Nuenen-Noord,Prunuslaan,51.478386,5.545083
+71685,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Ter Aar",NULL,"2461 RK",Langeraar-Nieuwbouw,"Van Brederodeplein",52.194614,4.712347
+117159,NL,Nederland,Zeeland,ZE,NULL,NULL,Zierikzee,NULL,"4302 WS",Poortambacht,Kluutstraat,51.645962,3.900142
+8939,NL,Nederland,Noord-Holland,NH,NULL,NULL,Amsterdam,Volewijck,"1031 DB","Van der Pekbuurt",Buiksloterweg,52.385139,4.909302
+124222,NL,Nederland,Limburg,LI,NULL,NULL,Bergen,Nieuw-Bergen,"5854 JD",Nieuw-Bergen,Eekhoornstraat,51.602062,6.058695
+119559,NL,Nederland,Zeeland,ZE,NULL,NULL,Breskens,NULL,"4511 GX",NULL,Azaleastraat,51.394691,3.550833
+15700,NL,Nederland,Drenthe,DR,NULL,NULL,Assen,Kloosterveen,"9408 BN",Kloosterhoven,Perzikstraat,53.003811,6.516796
+36237,NL,Nederland,Noord-Brabant,NB,NULL,NULL,'s-Hertogenbosch,Noord,"5233 NA","De Rompert","Eerste Morgen",51.716862,5.311002
+96902,NL,Nederland,Gelderland,GE,NULL,NULL,Nunspeet,NULL,"8071 WD",Nunspeet-West,Parallelweg,52.378540,5.777757
+119610,NL,Nederland,Zeeland,ZE,NULL,NULL,Oostburg,NULL,"4501 BK",NULL,"Burgemeester Erasmusstraat",51.326221,3.488104
+33146,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Berghem,NULL,"5351 BE",Berghem-Noord,Veldstraat,51.772614,5.569438
+127253,NL,Nederland,Limburg,LI,NULL,NULL,Roermond,NULL,"6045 VA","De Kemp",Surinamestraat,51.176792,6.009435
+22056,NL,Nederland,Friesland,FR,NULL,NULL,Leeuwarden,Camminghaburen,"8926 LZ",Camminghaburen,Taniaburg,53.211533,5.847341
+55698,NL,Nederland,Overijssel,OV,NULL,NULL,Vroomshoop,Bruinehaar,"7681 CT",Vroomshoop-Oost,Veenmos,52.464603,6.569966
+106291,NL,Nederland,Gelderland,GE,NULL,NULL,Geldermalsen,NULL,"4191 EE","Geldermalsen Zuid",Koninginnelaan,51.880737,5.293004
+104163,NL,Nederland,Gelderland,GE,NULL,NULL,Ede,NULL,"6711 PA",Stationsbuurt,"Laan 1948",52.031609,5.668361
+21228,NL,Nederland,Friesland,FR,NULL,NULL,Gorredijk,NULL,"8401 MD",Gorredijk-Bloemenwijk,Goudstjer,53.010155,6.075810
+94258,NL,Nederland,Gelderland,GE,NULL,NULL,Lochem,NULL,"7241 DV",Lochem-Oost,Lendekesweg,52.160728,6.420533
+90827,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Leidschendam,NULL,"2263 KE","Schakenbosch en het",Buitenvoorde,52.103855,4.412688
+138212,NL,Nederland,Utrecht,UT,NULL,NULL,Utrecht,Noordoost,"3573 XE","Voordorp en Voorveldsepolder",Tulastraat,52.111977,5.143526
+30157,NL,Nederland,Flevoland,FL,NULL,NULL,Dronten,NULL,"8253 KA","De Gilden","Sint Catharinagilde",52.531418,5.692235
+110942,NL,Nederland,Gelderland,GE,NULL,NULL,Ommeren,NULL,"4032 PA","Ommeren met Den Eng",Kroonheuvel,51.945675,5.496148
+54274,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Geffen,NULL,"5386 DE",NULL,Vrouwkespad,51.744099,5.464629
+109417,NL,Nederland,Gelderland,GE,NULL,NULL,Kerkdriel,Kerkdriel,"5331 JG",Kerkdriel,Karinastraat,51.777065,5.321063
+85195,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rijswijk,NULL,"2283 HG",Stationskwartier,Papyruspad,52.038956,4.320923
+64909,NL,Nederland,Overijssel,OV,NULL,NULL,Enschede,Hogeland,"7533 ZL",Velve-Lindenhof,Coulombstraat,52.221222,6.922334
+122832,NL,Nederland,Limburg,LI,NULL,NULL,Venlo,Blerick,"5921 VX",gazenkamp,"P C Hooftstraat",51.368191,6.144489
+92160,NL,Nederland,Gelderland,GE,NULL,NULL,Winterswijk,NULL,"7101 JC",Winterswijk-Zuidoost,"A.S. Talmastraat",51.965828,6.724453
+126467,NL,Nederland,Limburg,LI,NULL,NULL,Kerkrade,NULL,"6467 JA",Terwinselen,Aardaker,50.864170,6.015601
+92540,NL,Nederland,Gelderland,GE,NULL,NULL,Aalten,NULL,"7121 EN","Aalten-kern Centrum",Servatiusstraat,51.923637,6.583096
+142784,NL,Nederland,Utrecht,UT,NULL,NULL,Utrecht,"Leidsche Rijn","3543 GK",Terwijde-Oost,"Duke Ellingtonstraat",52.101444,5.051096
+18860,NL,Nederland,Drenthe,DR,NULL,NULL,Hoogeveen,"De Weide","7908 VW",Erflanden,Citroenvlinder,52.708614,6.446331
+26717,NL,Nederland,Friesland,FR,NULL,NULL,Wolvega,NULL,"8471 ZJ","Wolvega-De Heidepolle",Bosbes,52.869396,5.985954
+61806,NL,Nederland,Overijssel,OV,NULL,NULL,Hengelo,NULL,"7554 SW",Beckum,"Pastoor Ossestraat",52.211716,6.740940
+129338,NL,Nederland,Limburg,LI,NULL,NULL,Hoensbroek,Mariarade,"6431 GJ",Mariarade-Zuid,"Op De Acker",50.929066,5.933807
+93306,NL,Nederland,Gelderland,GE,NULL,NULL,'s-Heerenberg,NULL,"7041 DG",NULL,Dahliastraat,51.877514,6.249958
+14576,NL,Nederland,Noord-Holland,NH,NULL,NULL,"Nederhorst den Berg",NULL,"1394 JV",Splegelpolder,Cederlaan,52.250473,5.046601
+119468,NL,Nederland,Zeeland,ZE,NULL,NULL,IJzendijke,NULL,"4515 CA",NULL,Oranjestraat,51.321564,3.608195
+31076,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Nuenen,NULL,"5671 GA",Nuenen-Noord,Park,51.474411,5.548178
+73387,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Leiderdorp,NULL,"2351 GS",Oranjewijk,Wilhelminastraat,52.147190,4.530419
+39095,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Gemert,NULL,"5421 HZ",Gemert-Centrum,"Pater Van Den Elsenstraat",51.553482,5.689224
+140271,NL,Nederland,Utrecht,UT,NULL,NULL,IJsselstein,NULL,"3401 NJ",Groenvliet,Biezenplein,52.019600,5.038391
+126676,NL,Nederland,Limburg,LI,NULL,NULL,Heerlen,Heerlerbaan-Schil,"6418 BL",Giezenveld,Caumerboord,50.871120,5.997156
+122169,NL,Nederland,Limburg,LI,NULL,NULL,Vaals,NULL,"6291 VN",NULL,"In 't Oord",50.770462,6.012107
+18769,NL,Nederland,Drenthe,DR,NULL,NULL,Ruinen,NULL,"7963 AE",NULL,Hoekstraat,52.762726,6.366786
+141062,NL,Nederland,Utrecht,UT,NULL,NULL,Houten,"Houten Zuid","3994 KZ",Mossen,Beekmos,52.014256,5.190062
+73059,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Alphen aan den Rijn",Hoorn,"2404 AX",Zeeheldenbuurt,Barentszstraat,52.135712,4.654807
+30304,NL,Nederland,Flevoland,FL,NULL,NULL,Almere,"Almere Buiten","1339 NN",Eilandenbuurt,Nieuw-Caledoniëstraat,52.396362,5.304696
+37086,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Sleeuwijk,NULL,"4254 BR","Sleeuwijk west",Lindenhof,51.815716,4.946656
+52198,NL,Nederland,Noord-Brabant,NB,NULL,NULL,"Sint Anthonis",NULL,"5845 DG",NULL,"Den Boggerd",51.625046,5.882398
+54817,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Hoogerheide,NULL,"4631 HX",Hoogerheide-Noord,"Hof Van Brabant",51.429611,4.333193
+113982,NL,Nederland,Groningen,GR,NULL,NULL,Groningen,Oud,"9715 GH","Indische buurt","R. Feithplein",53.231163,6.565348
+46867,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Breda,NULL,"4827 KG",Geeren-zuid,Lelystraat,51.602818,4.794793
+24149,NL,Nederland,Friesland,FR,NULL,NULL,Ballum,NULL,"9162 EN",NULL,"Gerrit Kosterweg",53.443615,5.688742
+97865,NL,Nederland,Gelderland,GE,NULL,NULL,Zevenaar,NULL,"6904 KL",Zonnemaat,Bizetstraat,51.934582,6.063366
+143465,NL,Nederland,Utrecht,UT,NULL,NULL,Vleuten,"Vleuten-De Meern","3452 SH",Vleuterweide-Zuid,Terrastuinlaan,52.090473,5.009999
+133092,NL,Nederland,Limburg,LI,NULL,NULL,Venray,Brabander,"5804 XW",Brabander,Donkweg,51.533203,5.968014
+21993,NL,Nederland,Friesland,FR,NULL,NULL,Giekerk,NULL,"9061 AM",NULL,"Doctor E. Wassenberghstrjitte",53.239414,5.892084
+23674,NL,Nederland,Friesland,FR,NULL,NULL,Dokkum,NULL,"9103 NP","Dokkum Kooilanden","Gebroeders Woudsmastraat",53.315014,6.013439
+11739,NL,Nederland,Noord-Holland,NH,NULL,NULL,Heemstede,NULL,"2104 XE","Glipper Dreef en Staatsliedenbuurt","Mr. J. Heemskerkstraat",52.332451,4.613414
+51465,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Tilburg,Witbrant,"5036 AT","Witbrant West",Wilniserf,51.572006,5.002310
+22016,NL,Nederland,Friesland,FR,NULL,NULL,Leeuwarden,Camminghaburen,"8925 GD",Camminghaburen,Gratingastins,53.206566,5.842472
+141417,NL,Nederland,Utrecht,UT,NULL,NULL,Nieuwegein,Hoogzandveld,"3434 CR",Hoogzandveld,Dotterbloemstraat,52.010086,5.087039
+30372,NL,Nederland,Flevoland,FL,NULL,NULL,Almere,"Almere Buiten","1334 LG","Centrum Almere Buiten","San Franciscostraat",52.393974,5.271064
+95991,NL,Nederland,Gelderland,GE,NULL,NULL,Apeldoorn,West,"7312 ED",Driehuizen,Achterlandseweg,52.207329,5.943519
+21037,NL,Nederland,Friesland,FR,NULL,NULL,Oosterwolde,NULL,"8431 LD",Oosterwolde-Centrum-Noord-West,Brink,52.993553,6.293705
+78632,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Monster,NULL,"2681 VL","Kleine Geest en Molenwijk",Zeearend,52.028076,4.170614
+111923,NL,Nederland,Groningen,GR,NULL,NULL,Bedum,NULL,"9781 AS",NULL,Almastraat,53.299541,6.590753
+73708,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Leiderdorp,NULL,"2351 RJ",Oranjewijk,"Charlotte De Bourbonstraat",52.146286,4.528293
+135274,NL,Nederland,Utrecht,UT,NULL,NULL,Leusden,Leusden-Centrum,"3833 ZB",Claverenblad,"Jonker Bolpoort",52.125923,5.421671
+35110,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Berlicum,NULL,"5258 JZ","Westerbroek en Beekveld",Brouwhuis,51.673443,5.398906
+102594,NL,Nederland,Gelderland,GE,NULL,NULL,Wageningen,NULL,"6704 AM","De Eng",Bosweg,51.981857,5.680166
+42695,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Best,NULL,"5685 GZ",Heivelden,Heivelden-Zuid,51.502888,5.374452
+38246,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Heeze,NULL,"5591 NE",NULL,"De Pompenmaker",51.382885,5.565708
+119670,NL,Nederland,Zeeland,ZE,NULL,NULL,Arnemuiden,NULL,"4341 GP",Poldertje,"De Manstraat",51.500614,3.679988
+37000,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Udenhout,NULL,"5071 KH","De Mortel",Zuidewijn,51.609200,5.155460
+49565,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Raamsdonksveer,NULL,"4941 WX",NULL,"Oude Oosterhoutseweg",51.688183,4.876552
+114189,NL,Nederland,Groningen,GR,NULL,NULL,Groningen,Zuidwest,"9728 KA","Corpus den Hoorn",Kochstraat,53.196648,6.555226
+41731,NL,Nederland,Noord-Brabant,NB,NULL,NULL,"Son en Breugel",Son,"5691 LB","De Gentiaan",Aziëlaan,51.524689,5.479650
+4253,NL,Nederland,Noord-Holland,NH,NULL,NULL,Bergen,"Bergen Binnen","1861 SL",Beekhove,Koorlaan,52.664707,4.702645
+77031,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag",NULL,"2522 NA",Laakkwartier-Oost,Lyonnetstraat,52.065151,4.328213
+131213,NL,Nederland,Limburg,LI,NULL,NULL,Gennep,NULL,"6591 XA",NULL,Norbertplein,51.690250,5.981052
+96852,NL,Nederland,Gelderland,GE,NULL,NULL,Nunspeet,NULL,"8072 XJ",Nunspeet-Oost,"De Visserlaan",52.384010,5.802088
+3884,NL,Nederland,Noord-Holland,NH,NULL,NULL,Warmenhuizen,NULL,"1749 VP",Debbemeer-Noord,Tuinfluiterstraat,52.726376,4.740641
+42263,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Veldhoven,NULL,"5502 PW",Zeelst,Severeind,51.426479,5.424677
+22411,NL,Nederland,Friesland,FR,NULL,NULL,Leeuwarden,Binnenstad,"8911 GH","Grote Kerkbuurt",Breedstraat,53.204304,5.798991
+44222,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Moergestel,"Centrum Moergestel","5066 EA","Centrum Moergestel",Postelstraat,51.544277,5.185007
+85973,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Berkel en Rodenrijs",Rodenrijs,"2651 BK",Vlinderstrik,Zuideinde,51.972443,4.447104
+97522,NL,Nederland,Gelderland,GE,NULL,NULL,Didam,NULL,"6942 VH",Didam-Noord,Bodenclauwstraat,51.942970,6.130049
+20118,NL,Nederland,Drenthe,DR,NULL,NULL,Emmen,Delftlanden,"7813 DH",Delftlanden,Wolferinghaar,52.757210,6.850280
+19729,NL,Nederland,Drenthe,DR,NULL,NULL,Roden,NULL,"9302 EH","Roden West",Blaauwven,53.137348,6.403580
+92205,NL,Nederland,Gelderland,GE,NULL,NULL,Winterswijk,NULL,"7101 MV","Centrale deel",Ratumsestraat,51.972160,6.722429
+70596,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Barendrecht,Paddewei,"2992 CD",Paddewei,Jaagpad,51.852806,4.533209
+103272,NL,Nederland,Gelderland,GE,NULL,NULL,Tiel,NULL,"4001 GE","De Lok",Frieslandstraat,51.892944,5.434531
+79712,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Delfshaven,"3024 TP",Delfshaven,"Korte Schoonderloostraat",51.906574,4.452350
+2129,NL,Nederland,Noord-Holland,NH,NULL,NULL,Alkmaar,Centrum,"1811 MX",Oost,"Sint Annastraatbrug",52.630352,4.753998
+89136,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Charlois,"3084 MB",Zuiderpark,"Daan Schammerstraat",51.878654,4.463486
+109775,NL,Nederland,Gelderland,GE,NULL,NULL,Loenen,NULL,"7371 EA",NULL,Molen-Allee,52.124451,6.035351
+5446,NL,Nederland,Noord-Holland,NH,NULL,NULL,"Egmond aan Zee",NULL,"1931 BH",NULL,"Doctor Willem Dreesweg",52.620098,4.630522
+138592,NL,Nederland,Utrecht,UT,NULL,NULL,Houten,"Houten Noord","3991 EE",Oude,Kostersgang,52.028156,5.162695
+109058,NL,Nederland,Gelderland,GE,NULL,NULL,Culemborg,NULL,"4106 AB","ten westen en zuiden van Culemborg","Steven Van Beusichemlaan",51.944695,5.195793
+134093,NL,Nederland,Limburg,LI,NULL,NULL,Wessem,NULL,"6019 AC",NULL,Stadstuinen,51.160637,5.880960
+107711,NL,Nederland,Gelderland,GE,NULL,NULL,Barneveld,NULL,"3772 PD",Veller,"Groninger Meeuwlaan",52.130348,5.598694
+28798,NL,Nederland,Flevoland,FL,NULL,NULL,Zeewolde,NULL,"3891 CK","Eerste woonwijk",Botter,52.333740,5.534123
+50882,NL,Nederland,Noord-Brabant,NB,NULL,NULL,"Beek en Donk",NULL,"5741 HJ",Beek,"Karel Doormanstraat",51.526775,5.638326
+120024,NL,Nederland,Zeeland,ZE,NULL,NULL,Middelburg,NULL,"4335 HZ",Poelendaele,"Van Heemskerckstraat",51.492153,3.605779
+84859,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Melissant,NULL,"3248 AG",NULL,Binnenweg,51.768570,4.070156
+8656,NL,Nederland,Noord-Holland,NH,NULL,NULL,Amsterdam,NULL,"1018 AB",Kadijken,Kadijksplein,52.370186,4.912200
+119595,NL,Nederland,Zeeland,ZE,NULL,NULL,Oostburg,NULL,"4501 BS",NULL,Langestraat,51.324974,3.490964
+34364,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Oss,Centrum,"5341 EG",Centrum-Zuid,Carmelietenstraat,51.768185,5.526798
+105660,NL,Nederland,Gelderland,GE,NULL,NULL,Nijkerk,NULL,"3862 VA",Strijland-west,Moorselaar,52.215843,5.496245
+66183,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Gorinchem,haarwijk,"4205 HG","Haarwijk West",Kabeljauwenlaan,51.842926,4.966928
+9837,NL,Nederland,Noord-Holland,NH,NULL,NULL,Zwanenburg,NULL,"1161 VX","Zwanenburg Noordwest","Matthijs Sterklaan",52.382252,4.744836
+66602,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Bergambacht,NULL,"2861 VG",Uitbreiding,"Henry Dunantstraat",51.934296,4.789082
+14443,NL,Nederland,Noord-Holland,NH,NULL,NULL,Heerhugowaard,"De Draai","1706 AJ","De Draai Midden",Kalmoesstraat,52.670578,4.861843
+115063,NL,Nederland,Groningen,GR,NULL,NULL,Winsum,NULL,"9951 VZ",Ripperda,Aemckenheerd,53.325882,6.527602
+47772,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Etten-Leur,Midden,"4872 XT","Centrum Oost 2",Dijkmanstraat,51.574741,4.638180
+50639,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Willemstad,NULL,"4797 ED",NULL,Cornabépark,51.688187,4.444262
+86348,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rijswijk,NULL,"2285 XG",Ministerbuurt,"P. Werthweynstraat",52.033691,4.307231
+28350,NL,Nederland,Flevoland,FL,NULL,NULL,Creil,NULL,"8312 CB",NULL,"Koning Radboudlaan",52.763790,5.664277
+60220,NL,Nederland,Overijssel,OV,NULL,NULL,Hengelo,Wilderinkshoek,"7555 TJ",Nijverheid,Aleidastraat,52.260513,6.772974
+51899,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Boxtel,NULL,"5283 AB",Munsel-Selissen,"Ingang De La Salle",51.592247,5.331801
+137783,NL,Nederland,Utrecht,UT,NULL,NULL,Bunnik,NULL,"3981 VB",NULL,"Koningin Emmastraat",52.064972,5.210470
+51643,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Sint-Oedenrode,NULL,"5492 NK",Nijnsel,Nijverheidsweg,51.556316,5.479437
+24992,NL,Nederland,Friesland,FR,NULL,NULL,Roodhuis,NULL,"8736 JG",NULL,"Pastoar Ten Bokumstrjitte",53.075382,5.637842
+86471,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Bergambacht,NULL,"2861 WC",Uitbreiding,Godevaertshoef,51.934563,4.793833
+12192,NL,Nederland,Noord-Holland,NH,NULL,NULL,Assendelft,NULL,"1567 CA",Parkrijk,Moerasland,52.485195,4.748371
+52780,NL,Nederland,Noord-Brabant,NB,NULL,NULL,"Loon op Zand",NULL,"5175 DA",Oud-Loon,"De Eenhoorn",51.625648,5.070721
+7671,NL,Nederland,Noord-Holland,NH,NULL,NULL,Amsterdam,"Tuindorp Nieuwendam","1023 AM","Tuindorp Nieuwendam",Hensbroekerstraat,52.392521,4.944334
+109606,NL,Nederland,Gelderland,GE,NULL,NULL,Beltrum,NULL,"7156 MJ",NULL,Batenburgstraat,52.067635,6.565844
+109267,NL,Nederland,Gelderland,GE,NULL,NULL,Tiel,NULL,"4007 JH",Passewaaij-Zuid-Oost,"Groot Koolwitje",51.866112,5.407470
+108523,NL,Nederland,Gelderland,GE,NULL,NULL,Wezep,NULL,"8091 SC",Wezep-Centrum,Kastanjehof,52.456799,6.001426
+19420,NL,Nederland,Drenthe,DR,NULL,NULL,Smilde,NULL,"9422 HB",Smilde-Centrum,Kerkhoflaan,52.943928,6.447394
+77124,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag",Schildersbuurt,"2526 GJ",Schildersbuurt-Noord,"Van Ostadestraat",52.066322,4.306455
+87501,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Zoetermeer,Oosterheem,"2729 KE",Oosterheem,Zuidwijkstraat,52.059868,4.533074
+8136,NL,Nederland,Noord-Holland,NH,NULL,NULL,"Ouderkerk aan de Amstel",NULL,"1191 VT",NULL,Tuinfluiter,52.290710,4.915280
+114699,NL,Nederland,Groningen,GR,NULL,NULL,Leek,NULL,"9351 GN","Centrum Leek en omgeving","Carel Hieronymuslaan",53.161118,6.380378
+48667,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Roosendaal,Tolberg,"4708 EC",Tolberg-Oost,Enclaveberg,51.517082,4.441630
+124960,NL,Nederland,Limburg,LI,NULL,NULL,Roggel,NULL,"6088 CN",NULL,Tamboerenstraat,51.258816,5.917221
+29463,NL,Nederland,Flevoland,FL,NULL,NULL,Almere,NULL,"1318 AS",Verzetswijk,Vredelaan,52.378529,5.237420
+9751,NL,Nederland,Noord-Holland,NH,NULL,NULL,Badhoevedorp,NULL,"1171 LH","Badhoevedorp Bouwlust","Prins Constantijnlaan",52.339668,4.766571
+53634,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Maren-Kessel,NULL,"5398 GH",NULL,Boerenzwaluw,51.793171,5.391444
+104034,NL,Nederland,Gelderland,GE,NULL,NULL,Lunteren,NULL,"6741 DN",Lunteren-Oost,"Van Den Hamlaan",52.083584,5.630084
+44062,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Oirschot,Spoordonk,"5688 KK",Spoordonk,Pandgat,51.520874,5.281811
+53707,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Halsteren,NULL,"4661 RR","Nieuwe Molen",Kannewielseweg,51.515522,4.269670
+125876,NL,Nederland,Limburg,LI,NULL,NULL,Brunssum,NULL,"6441 ER","Op den Haan",Drossaard,50.950508,5.969747
+141281,NL,Nederland,Utrecht,UT,NULL,NULL,Schoonrewoerd,NULL,"4145 KR",NULL,Brinkstraat,51.920540,5.114141
+90441,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Leiderdorp,NULL,"2352 HH","De Vogelwijk",Kievitstraat,52.159367,4.526804
+40870,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Eindhoven,"Achtse Molen","5627 HZ","Achtse Barrier-Gunterslaer",Bretagnehof,51.481361,5.452447
+296,NL,Nederland,Noord-Holland,NH,NULL,NULL,Bovenkarspel,NULL,"1611 BP",Bovenkarspel-Centrum,Dotterbloem,52.696297,5.240392
+121663,NL,Nederland,Zeeland,ZE,NULL,NULL,Middelburg,Dauwendaele,"4337 BV","Dauwendaele II",Daniëlsland,51.490822,3.620980
+37576,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Andel,NULL,"4281 PH",NULL,"Prins Bernhardstraat",51.785904,5.051402
+116605,NL,Nederland,Zeeland,ZE,NULL,NULL,Krabbendijke,NULL,"4413 HA","Krabbendijke - Rozeboom",Tremel,51.434586,4.105115
+127933,NL,Nederland,Limburg,LI,NULL,NULL,Sittard,Overhoven,"6136 TP",Baandert,Hadewychstraat,51.006630,5.878323
+62284,NL,Nederland,Overijssel,OV,NULL,NULL,Nijverdal,NULL,"7441 KB","Noetsele II en III",Tiesselinckserve,52.352455,6.465362
+66845,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Gouda,"Kort Haarlem","2806 EL","Kort Haarlem",Krugerlaan,52.011402,4.723223
+17618,NL,Nederland,Drenthe,DR,NULL,NULL,Emmen,NULL,"7814 PX",Weerdinge,Nieuwstraat,52.818550,6.917683
+18778,NL,Nederland,Drenthe,DR,NULL,NULL,Ruinen,NULL,"7963 PN",NULL,Tolhuisweg,52.761105,6.380906
+67844,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Hendrik-Ido-Ambacht,Krommeweg,"3343 DT",Krommeweg-Noord,"Abraham Van Strijstraat",51.837788,4.639780
+21789,NL,Nederland,Friesland,FR,NULL,NULL,Veenwouden,NULL,"9269 NP",NULL,Swellestrjitte,53.240089,5.996619
+67721,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Ridderkerk,"Het Zand","2984 GD","Het Zand",Stevinstraat,51.867966,4.617020
+71218,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,'s-Gravendeel,NULL,"3295 KZ","'s-Gravendeel Bedrijventerrein Mijlpolder",Nijverheidsweg,51.788307,4.612887
+97094,NL,Nederland,Gelderland,GE,NULL,NULL,Apeldoorn,West,"7313 HD","Berg en Bos",Elzenlaan,52.213947,5.930037
+24626,NL,Nederland,Friesland,FR,NULL,NULL,Sneek,NULL,"8608 BC",Lemmerweg-West,Voorlijn,53.024723,5.647220
+106609,NL,Nederland,Gelderland,GE,NULL,NULL,Culemborg,NULL,"4105 EM","Westelijke Buitenwijken","Suze Groenewegstraat",51.947674,5.209841
+5104,NL,Nederland,Noord-Holland,NH,NULL,NULL,IJmuiden,NULL,"1972 ZC",Rivierenbuurt,Maasstraat,52.454906,4.613064
+38731,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Helmond,NULL,"5701 GL",Beisterveld,"Burgemeester Van Houtlaan",51.479855,5.672500
+43247,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Valkenswaard,NULL,"5554 KC",NULL,"De Maalsteen",51.350479,5.463638
+54971,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Berkel-Enschot,NULL,"5057 ES",Koningsoord,Boekbinderijstraat,51.584358,5.133348
+20244,NL,Nederland,Drenthe,DR,NULL,NULL,Coevorden,NULL,"7742 LS",Ossehaar,"Piet Tijsmastraat",52.660366,6.761690
+19148,NL,Nederland,Drenthe,DR,NULL,NULL,Meppel,Centrum,"7941 GH",Koninginnebuurt,Zuideinde,52.692680,6.190632
+124100,NL,Nederland,Limburg,LI,NULL,NULL,Horst,NULL,"5961 JH",Berkelsbroek,"Van Douverenstraat",51.450542,6.061249
+87953,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Voorschoten,NULL,"2254 BA",Nassauwijk,"Burgemeester Verver-Aartsenlaan",52.130802,4.441556
+94779,NL,Nederland,Gelderland,GE,NULL,NULL,Zutphen,Noordveen,"7203 GW","Helleraetplein en omgeving",Heetijzerstraat,52.149254,6.212630
+25633,NL,Nederland,Friesland,FR,NULL,NULL,Bolsward,NULL,"8701 LB",Bolsward-Noordoost,"De Trochreed",53.065735,5.529918
+19870,NL,Nederland,Drenthe,DR,NULL,NULL,Vledder,NULL,"8381 BS",NULL,"De Bree",52.859196,6.217351
+82352,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Schiedam,West,"3117 KT",Frankenland,"Van Beverenstraat",51.913422,4.391379
+35767,NL,Nederland,Noord-Brabant,NB,NULL,NULL,'s-Hertogenbosch,"'s-hertogenbosch Zuid","5215 ES",Grevelingen,Grevelingen,51.689201,5.323169
+54032,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Mill,NULL,"5451 GW","Het Spoor",Parallelweg,51.681896,5.781687
+9766,NL,Nederland,Noord-Holland,NH,NULL,NULL,Badhoevedorp,NULL,"1171 MT","Badhoevedorp Noordwest",Tulpstraat,52.346973,4.773107
+102641,NL,Nederland,Gelderland,GE,NULL,NULL,Wageningen,"De Buurt","6707 CA","De Buurt-West",Margrietplantsoen,51.969711,5.657984
+12197,NL,Nederland,Noord-Holland,NH,NULL,NULL,Assendelft,NULL,"1567 AA",Waterrijk,Spant,52.487801,4.754650
+74869,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Leiden,"Bos- en Gasthuisdistrict","2324 AR",Fortuinwijk-Zuid,"Joseph Haydnlaan",52.140053,4.470020
+68168,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Berkenwoude,NULL,"2825 BK",NULL,Polderplein,51.944897,4.708852
+15629,NL,Nederland,Drenthe,DR,NULL,NULL,Assen,Marsdijk,"9403 SN","De Stoepen",Diamantstoep,53.015625,6.594162
+98446,NL,Nederland,Gelderland,GE,NULL,NULL,Arnhem,Geitenkamp,"6823 JD",Geitenkamp,"Bonte Wetering",52.002922,5.939454
+136282,NL,Nederland,Utrecht,UT,NULL,NULL,Maarn,Maarn,"3951 EB","Maarn waaronder Klein Amsterdam",Aardbolhof,52.064941,5.381691
+106547,NL,Nederland,Gelderland,GE,NULL,NULL,Culemborg,NULL,"4101 XA","Oude Buitenwijken",Vianensestraat,51.952721,5.222522
+66466,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Schoonhoven,NULL,"2871 TS","Schoonhoven-Oude Stad",Stationsstraat,51.949200,4.850347
+71525,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Strijen,NULL,"3291 GE",NULL,"De Tienhond",51.738876,4.553446
+69488,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,"Prins Alexander","3068 NT",Ommoord,Zilverdistel,51.953644,4.540545
+43712,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Hapert,NULL,"5527 KK","Hapert Oost","De Hoeven",51.368587,5.267259
+65769,NL,Nederland,Overijssel,OV,NULL,NULL,Wierden,NULL,"7642 KA",Zuidbroek,Dasselaarshoek,52.350883,6.597129
+141096,NL,Nederland,Utrecht,UT,NULL,NULL,Houten,"Houten Zuid","3991 NA",Waters,Dooiwater,52.017776,5.163950
+24224,NL,Nederland,Friesland,FR,NULL,NULL,West-Terschelling,NULL,"8881 CP",NULL,Lutineweg,53.365543,5.213335
+72286,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Lisse,Centrum,"2161 MD",Berkhout,Iepenlaan,52.260769,4.549749
+114820,NL,Nederland,Groningen,GR,NULL,NULL,Marum,NULL,"9363 JS",NULL,Meidoornlaan,53.140533,6.268511
+76600,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Voorburg,Bovenveen,"2273 GW","Bovenveen noord","Richard Sturenberghlaan",52.082024,4.361379
+74642,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Leiden,Binnenstad,"2311 SK",Pieterswijk,Kloksteeg,52.157192,4.487281
+67761,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Zwijndrecht,Centrum,"3331 AK","Voormalig veilingterrein",Lindelaan,51.816105,4.645831
+80246,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Kralingen,"3034 NV","Oud Crooswijk","Linker Rottekade",51.931652,4.487236
+38305,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Budel-Dorplein,Dorplein,"6024 AG",NULL,Parkdreef,51.235790,5.586908
+15993,NL,Nederland,Drenthe,DR,NULL,NULL,Assen,Peelo,"9407 CE","De Kampen-De Essen",Zuringes,53.015823,6.564572
+36781,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Nieuwkuijk,NULL,"5253 XH",NULL,"De Maashoven",51.691952,5.173606
+48647,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Kruisland,NULL,"4756 CB",NULL,Tuimelaar,51.568687,4.409317
+138559,NL,Nederland,Utrecht,UT,NULL,NULL,Utrecht,Zuid,"3523 RV",Bokkenbuurt,Lamstraat,52.074539,5.130924
+87750,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,IJsselmonde,"3077 MK","Oud IJsselmonde","Bep Van Klaverenstraat",51.896141,4.526262
+10487,NL,Nederland,Noord-Holland,NH,NULL,NULL,Haarlem,Meerwijk,"2037 EA",Spijkerboorbuurt,Spijkerboorpad,52.359638,4.664138
+13547,NL,Nederland,Noord-Holland,NH,NULL,NULL,Kortenhoef,NULL,"1241 JJ",Rade,"Kleine Wije",52.235668,5.118534
+134716,NL,Nederland,Utrecht,UT,NULL,NULL,Renswoude,NULL,"3927 BV",NULL,"Van Reedeweg",52.072269,5.537434
+12934,NL,Nederland,Noord-Holland,NH,NULL,NULL,Amsterdam-Zuidoost,"Bijlmer Centrum","1103 AD",D-buurt,Daalwijkdreef,52.320530,4.949760
+22718,NL,Nederland,Friesland,FR,NULL,NULL,Wytgaard,NULL,"9089 CA",NULL,"De Finne",53.142517,5.780600
+6695,NL,Nederland,Noord-Holland,NH,NULL,NULL,Hilversum,Oost,"1223 AR","Astronomische Buurt",Rigelstraat,52.233631,5.197157
+112923,NL,Nederland,Groningen,GR,NULL,NULL,Muntendam,NULL,"9649 HC",Muntendam-oost,"Kromme Elleboog",53.134365,6.871395
+137560,NL,Nederland,Utrecht,UT,NULL,NULL,"Bosch en Duin",NULL,"3734 GK",NULL,Tolhuislaan,52.133572,5.233583
+62232,NL,Nederland,Overijssel,OV,NULL,NULL,Nijverdal,NULL,"7442 HL","Groot Lochter",Schubertstraat,52.355473,6.487585
+71123,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Dordrecht,Wielwijk,"3317 XH","Cornelis Evertsenstraat en omgeving","Cornelis Evertsenstraat",51.789215,4.650857
+15381,NL,Nederland,Noord-Holland,NH,NULL,NULL,Weesp,Bloemendalerpolder,"1384 GL",Weespersluis,Nijenrodehof,52.321468,5.057718
+110031,NL,Nederland,Gelderland,GE,NULL,NULL,Herveld,NULL,"6674 HN",NULL,Zinkviooltje,51.906467,5.740934
+89983,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Berkel en Rodenrijs",Westpolder,"2652 NB","Buurt 2741","Harry Banninklaan",51.994045,4.454895
+44003,NL,Nederland,Noord-Brabant,NB,NULL,NULL,"Oost West en Middelbeers",NULL,"5091 EW",Middelbeers,Pompenmaker,51.465469,5.257335
+29048,NL,Nederland,Flevoland,FL,NULL,NULL,Zeewolde,NULL,"3893 BT","Derde woonwijk",Coulisse,52.334187,5.522901
+129524,NL,Nederland,Limburg,LI,NULL,NULL,Sittard,Overhoven,"6132 SK",Kemperkoul,Lieckerhof,50.993332,5.896142
+44244,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Moergestel,"Centrum Moergestel","5066 GN","Centrum Moergestel","Pater Op 't Hooghof",51.539391,5.175256
+53874,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Valkenswaard,NULL,"5551 NV",Dommelen,"Het Lupke",51.343094,5.433746
+62403,NL,Nederland,Overijssel,OV,NULL,NULL,Luttenberg,NULL,"8105 AS",NULL,"Van Rhemenstraat",52.405674,6.363173
+119542,NL,Nederland,Zeeland,ZE,NULL,NULL,Breskens,NULL,"4511 XT",NULL,"Admiraal De Ruyterlaan",51.397266,3.552401
+70040,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Capelle aan den IJssel",NULL,"2901 AA",Zeeheldenbuurt-west,"Abel Tasmanstraat",51.914181,4.568919
+22491,NL,Nederland,Friesland,FR,NULL,NULL,Leeuwarden,Sonnenborgh,"8917 BJ",Transvaalwijk,Singelstraat,53.206535,5.792755
+113343,NL,Nederland,Groningen,GR,NULL,NULL,Muntendam,NULL,"9649 DE",Muntendam-west,"Fam. Schrijverstraat",53.135296,6.858725
+69022,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Capelle aan den IJssel",Schenkel,"2906 RM",Molenbuurt,Poortmolen,51.939892,4.564720
+10769,NL,Nederland,Noord-Holland,NH,NULL,NULL,Haarlem,"Ter Kleefkwartier","2023 SR",Bomenbuurt-oost,Abeelstraat,52.401104,4.641066
+56461,NL,Nederland,Overijssel,OV,NULL,NULL,Zwolle,Marsweteringlanden,"8026 PL",Wijthmen,"Stramp Eschweg",52.488869,6.172141
+26853,NL,Nederland,Friesland,FR,NULL,NULL,Hardegarijp,NULL,"9254 KA",NULL,"De Strânljip",53.212696,5.950627
+121554,NL,Nederland,Zeeland,ZE,NULL,NULL,Vlissingen,Binnenstad,"4381 EN",Oude,Peperdijk,51.444618,3.576580
+15285,NL,Nederland,Noord-Holland,NH,NULL,NULL,Kortenhoef,NULL,"1241 BC",Rade,"Elbert Mooijlaan",52.243092,5.114917
+88760,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Reeuwijk,"Reeuwijk Brug","2811 SZ","Reeuwijk Brug","Koningin Wilhelminahof",52.043468,4.720583
+125424,NL,Nederland,Limburg,LI,NULL,NULL,Kerkrade,NULL,"6468 AJ",Vink,Kaffebergsweg,50.879108,6.056651
+20275,NL,Nederland,Drenthe,DR,NULL,NULL,Meppel,Berggierslanden,"7944 PE",Plantenbuurt,Pastinaak,52.680679,6.171167
+106934,NL,Nederland,Gelderland,GE,NULL,NULL,Vuren,NULL,"4214 DK",NULL,Lindelaan,51.823788,5.050243
+11502,NL,Nederland,Noord-Holland,NH,NULL,NULL,Heemstede,Heemstede-Centrum,"2102 CH","Heemsteedse Dreef","Pieter Aertszlaan",52.359173,4.625859
+86312,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag",Leidschenveen,"2492 SX","De Vissen",Schelpenhof,52.065014,4.408008
+102887,NL,Nederland,Gelderland,GE,NULL,NULL,Kesteren,Kesteren,"4041 GS","Lede en Oudewaard",Rhenenseweg,51.941124,5.570577
+12644,NL,Nederland,Noord-Holland,NH,NULL,NULL,Spaarndam,NULL,"2063 JR","Oud Spaarndam",Westkolk,52.413902,4.677141
+16248,NL,Nederland,Drenthe,DR,NULL,NULL,Emmer-Compascuum,NULL,"7881 AW",Emmer-Compascuum-Centrum,Scheerboom,52.814636,7.048241
+82164,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Hoogvliet,Hoogvliet,"3191 BX","Hoogvliet Zuid","Walraven Van Hallstraat",51.860409,4.361353
+143016,NL,Nederland,Utrecht,UT,NULL,NULL,Houten,"Houten Zuid","3991 HR",Polders,Rijnpolder,52.013657,5.162128
+68204,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Gouda,"De Korte Akkeren","2802 ZK",Weidebloemkwartier,Madeliefstraat,51.999428,4.699655
+11368,NL,Nederland,Noord-Holland,NH,NULL,NULL,Haarlem,Slachthuiswijk,"2033 RV",Componistenbuurt,Dunklerstraat,52.373192,4.655470
+84158,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Vierpolders,NULL,"3237 LE","Verspreide huizen",Kerkweg,51.885593,4.187101
+112326,NL,Nederland,Groningen,GR,NULL,NULL,Winschoten,NULL,"9671 GC",Winschoten-Centrum,Hoogklei,53.142307,7.033302
+114747,NL,Nederland,Groningen,GR,NULL,NULL,Leek,NULL,"9351 LH","Rodenburg en omgeving","'t Zuden",53.164242,6.370810
+97559,NL,Nederland,Gelderland,GE,NULL,NULL,Angerlo,NULL,"6986 BG",NULL,"De Kellsche Vicarij",51.996643,6.140331
+18121,NL,Nederland,Drenthe,DR,NULL,NULL,Coevorden,NULL,"7741 JL",Coevorden-Centrum,Dwenger,52.661228,6.744884
+74439,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Leiden,Binnenstad,"2312 RL",Havenwijk-Zuid,Looiersplein,52.159603,4.503055
+139122,NL,Nederland,Utrecht,UT,NULL,NULL,Nieuwegein,Zuilenstein,"3438 GA",Zuilenstein,Marimbalaan,52.045780,5.086118
+114210,NL,Nederland,Groningen,GR,NULL,NULL,Groningen,Oud,"9725 EE",Rivierenbuurt,Spaarnestraat,53.208336,6.563572
+13603,NL,Nederland,Noord-Holland,NH,NULL,NULL,Hoofddorp,NULL,"2134 LP","Hoofddorp Floriande Oost",Colijnstraat,52.304901,4.636152
+82170,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Hoogvliet,Hoogvliet,"3191 AH","Hoogvliet Zuid",Middenbaan-Zuid,51.862244,4.355945
+50583,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Fijnaart,NULL,"4793 RW",NULL,Boerendijk,51.639423,4.503089
+116123,NL,Nederland,Groningen,GR,NULL,NULL,Usquert,NULL,"9988 SN",NULL,Kostersgang,53.403000,6.610950
+121115,NL,Nederland,Zeeland,ZE,NULL,NULL,Terneuzen,NULL,"4533 HJ",Othene,Vuurvlinder,51.324844,3.869096
+86006,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Delfshaven,"3024 RD",Delfshaven,Achterwater,51.908897,4.449241
+35534,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Vught,NULL,"5261 SV","Voorburg en omgeving",St.-Janshof,51.650009,5.297201
+45140,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Tilburg,Heikant,"5011 EA","Heikant Oost",Eilenbergstraat,51.586460,5.093767
+16406,NL,Nederland,Drenthe,DR,NULL,NULL,Klazienaveen,NULL,"7891 RM",Klazienaveen-Zuid,Engweg,52.720856,6.974877
+42811,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Waalre,NULL,"5583 CD",Ekenrooi,Arembergstraat,51.399086,5.483810
+142425,NL,Nederland,Utrecht,UT,NULL,NULL,Amstelhoek,NULL,"1427 AG",NULL,"De Bruinlaan",52.230755,4.835863
+68353,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Moordrecht,"Moordrecht wijk 03","2841 AA","Verspreide bebouwing Moordrecht",Oosteinde,51.992344,4.678289
+79522,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Delfshaven,"3021 ZC",Middelland,"Lieve Verschuierstraat",51.911636,4.458477
+5897,NL,Nederland,Noord-Holland,NH,NULL,NULL,"Den Helder","De Schooten","1785 BW",Zeeloodsenbuurt,"Aarjen Teunisz Jongkeesstraat",52.938198,4.780758
+31893,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Heusden,"Heusden wonen","5725 AK","Heusden centrum",Vlinkert,51.384285,5.766728
+105393,NL,Nederland,Gelderland,GE,NULL,NULL,Ermelo,NULL,"3851 XP",NULL,Sterrenboswegje,52.302387,5.631411
+68654,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Capelle aan den IJssel",Oostgaarde,"2905 SE",Molukkenbuurt,"Banda Neira",51.940910,4.606056
+3659,NL,Nederland,Noord-Holland,NH,NULL,NULL,Alkmaar,NULL,"1827 BK",Daalmeer-Zuidwest,Lotharingenweg,52.668163,4.763642
+2909,NL,Nederland,Noord-Holland,NH,NULL,NULL,Obdam,NULL,"1713 CD","Laan van Meerweijde en omgeving","Laan Van Meerweijde",52.672287,4.906321
+19396,NL,Nederland,Drenthe,DR,NULL,NULL,Bovensmilde,NULL,"9421 MA",Bovensmilde-Centrum,Boerheem,52.977459,6.487794
+68051,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Hendrik-Ido-Ambacht,Centrum,"3342 CC",Dorp,Callenburghsingel,51.845139,4.626016
+65673,NL,Nederland,Overijssel,OV,NULL,NULL,Zwolle,Stadshagen,"8044 VA",Breezicht,Breezichtlaan,52.545853,6.052256
+6829,NL,Nederland,Noord-Holland,NH,NULL,NULL,Bussum,Eng,"1403 JK","Ooster Eng-Zuid",Barbaragaarde,52.265823,5.185686
+86402,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Kwintsheul,NULL,"2295 NH",NULL,Hoenderparklaan,52.007713,4.263897
+77534,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag",Moerwijk,"2533 KH",Moerwijk-West,Anslostraat,52.051365,4.293883
+143923,NL,Nederland,Utrecht,UT,NULL,NULL,IJsselstein,NULL,"3402 MC",IJsseloevers,Trekschuit,52.024570,5.044056
+8506,NL,Nederland,Noord-Holland,NH,NULL,NULL,Amstelveen,"Bovenkerk - Westwijk","1187 PZ","Betsy Perkbuurt","Aletta Jacobslaan",52.283405,4.832296
+2425,NL,Nederland,Noord-Holland,NH,NULL,NULL,Akersloot,NULL,"1921 EK","Akersloot West",Rembrandtsingel,52.564320,4.733014
+10095,NL,Nederland,Noord-Holland,NH,NULL,NULL,Hoofddorp,NULL,"2132 SV","Hoofddorp Oost",Beyerinckstraat,52.302006,4.701007
+41296,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Eindhoven,Oud-Woensel,"5612 RC",Limbeek-Zuid,"Aletta Jacobsplein",51.443474,5.470585
+117384,NL,Nederland,Zeeland,ZE,NULL,NULL,Hulst,NULL,"4561 MD",Dullaert,Cromhoutstraat,51.294403,4.053978
+29879,NL,Nederland,Flevoland,FL,NULL,NULL,Almere,NULL,"1319 BC",Noorderplassen,Plecht,52.385845,5.184731
+57895,NL,Nederland,Overijssel,OV,NULL,NULL,Denekamp,NULL,"7591 CN","Veldkamp en Borchert",Bremstraat,52.380581,7.004479
+127015,NL,Nederland,Limburg,LI,NULL,NULL,Roermond,Asenray,"6042 LC",Asenray,Dorpsstraat,51.193535,6.048571
+33290,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Oss,NULL,"5342 HC",Willibrordusweg-Oost,Willibrordusweg,51.749786,5.542580
+73107,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Woubrugge,NULL,"2481 XC",Woubrugge-West,"Van Hoogstratenlaan",52.169701,4.632162
+42333,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Veldhoven,NULL,"5503 TG",D'Ekker,"Oude Kerkhof",51.410942,5.404092
+21986,NL,Nederland,Friesland,FR,NULL,NULL,Giekerk,NULL,"9061 DC",NULL,"Eliza Posthumastrjitte",53.241165,5.896568
+47011,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Breda,"Breda centrum","4811 SW",Schorsmolen,"Adriaan Van Bergenstraat",51.589931,4.770942
+10388,NL,Nederland,Noord-Holland,NH,NULL,NULL,Nieuw-Vennep,NULL,"2151 BP","Nieuw-Vennep West",Eggestraat,52.267883,4.626292
+69651,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Kralingen,"3062 BN","Kralingen Oost",Oranjelaan,51.927505,4.515180
+44878,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Tilburg,Oerle,"5021 PD",Zeeheldenbuurt,Oeverstraat,51.549065,5.084958
+11505,NL,Nederland,Noord-Holland,NH,NULL,NULL,Heemstede,Heemstede-Centrum,"2102 CP",Schouwbroekerpolder,Strawinskylaan,52.356445,4.630956
+102705,NL,Nederland,Gelderland,GE,NULL,NULL,Bennekom,NULL,"6721 XA",Halderbrink,Soetendaalseweg,52.001949,5.667694
+22406,NL,Nederland,Friesland,FR,NULL,NULL,Leeuwarden,Binnenstad,"8911 ET","Grote Kerkbuurt",Reijndersbuurt,53.206417,5.797948
+526,NL,Nederland,Noord-Holland,NH,NULL,NULL,Hoorn,Kersenboogerd,"1628 XG","Kersenboogerd-Zuid - Buurt 33 06",Pissarrohof,52.655296,5.107252
+52242,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Werkendam,NULL,"4251 DC",Werkense,"Korte Gang",51.815205,4.900661
+38556,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Helmond,Dierdonk,"5709 PC",Dierdonk,"De Korte Geer",51.493618,5.685725
+79156,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Rotterdam,Charlois,"3085 CA",Zuidwijk,Dommelrode,51.871159,4.493323
+34123,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Heesch,NULL,"5384 KG",Oranjebuurt,Julianastraat,51.731121,5.520591
+43690,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Hapert,NULL,"5527 CM","Hapert Oost",Mars,51.366238,5.257578
+39774,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Helmond,Stiphout,"5708 KK",Stiphout-Dorp,Janssenstraat,51.492283,5.616952
+70835,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Dordrecht,"Het Reeland","3312 GA","Vogelplein-Aalscholverstraat en omgeving",Bankastraat,51.808540,4.685482
+105450,NL,Nederland,Gelderland,GE,NULL,NULL,Ermelo,NULL,"3853 DR",Ermelo-West,Koperwiek,52.289021,5.597497
+45124,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Tilburg,Heikant,"5011 HA","Heikant Noord-Oost","De Fallastraat",51.590046,5.091312
+37620,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Dussen,NULL,"4271 AE",NULL,"De Croix Hof",51.733315,4.965901
+19295,NL,Nederland,Drenthe,DR,NULL,NULL,Beilen,NULL,"9411 CM",NULL,Kalmoes,52.852791,6.508125
+95758,NL,Nederland,Gelderland,GE,NULL,NULL,Apeldoorn,Noord,"7316 CJ","De Parken","Generaal Van Heutszlaan",52.222214,5.967367
+16649,NL,Nederland,Drenthe,DR,NULL,NULL,Gieten,NULL,"9461 GV",NULL,"Kleine Kamp",52.999596,6.769114
+4314,NL,Nederland,Noord-Holland,NH,NULL,NULL,"Bergen aan Zee",NULL,"1865 AN",NULL,"Van Der Wijckplein",52.660091,4.629139
+95061,NL,Nederland,Gelderland,GE,NULL,NULL,Baak,NULL,"7223 LB",NULL,"Pastoor Teubnerstraat",52.076099,6.225857
+61798,NL,Nederland,Overijssel,OV,NULL,NULL,Haaksbergen,NULL,"7482 ZM","Wolferink 1 en 4","Emanuel De Wittestraat",52.161457,6.724583
+21384,NL,Nederland,Friesland,FR,NULL,NULL,Wolvega,NULL,"8471 BL",Wolvega-Stuyversantbuurt,"Willem Lodewijkstraat",52.879704,5.998192
+28639,NL,Nederland,Flevoland,FL,NULL,NULL,Lelystad,Waterwijk-Landerijen,"8226 LP",Rivierenbuurt,Maasstraat,52.488834,5.496554
+17734,NL,Nederland,Drenthe,DR,NULL,NULL,Emmen,Rietlanden,"7827 HJ",Rietlanden,Slechtvalk,52.749432,6.891703
+30849,NL,Nederland,Flevoland,FL,NULL,NULL,Dronten,NULL,"8253 VW","De Gilden","Jeroen Boschstraat",52.532597,5.685717
+51924,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Boxtel,NULL,"5283 BR",Boxtel-Oost,Octogoon,51.586479,5.331967
+67507,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Alblasserdam,Blokweer,"2951 HH","Blokweer Zuid",Schildmos,51.869858,4.663903
+133891,NL,Nederland,Limburg,LI,NULL,NULL,"Berg en Terblijt",NULL,"6325 PB",Terblijt,Lindenstraat,50.854179,5.789258
+140225,NL,Nederland,Utrecht,UT,NULL,NULL,IJsselstein,NULL,"3402 JJ",IJsselveld-West,Phobos,52.031628,5.044419
+5888,NL,Nederland,Noord-Holland,NH,NULL,NULL,"Den Helder","De Schooten","1785 NG",Walvisvaarderbuurt,Commandeursplein,52.939713,4.773400
+33204,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Oss,Schadewijk,"5348 TL","Verzetsheldenbuurt II","Johannes Poststraat",51.771671,5.543967
+56475,NL,Nederland,Overijssel,OV,NULL,NULL,Zwolle,Schelle,"8016 NB",Oldenelerbroek,Janninkmarke,52.475574,6.101542
+74262,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag",Leidschenveen,"2492 PH","De Vissen",Kuifduikerstraat,52.065224,4.415277
+129942,NL,Nederland,Limburg,LI,NULL,NULL,Nuth,NULL,"6361 CT",NULL,Kennedylaan,50.912518,5.881869
+142566,NL,Nederland,Utrecht,UT,NULL,NULL,Utrecht,"Leidsche Rijn","3544 NK","Het Zand-West",Dudoksingel,52.091507,5.042518
+55230,NL,Nederland,Noord-Brabant,NB,NULL,NULL,Steensel,NULL,"5524 BS",NULL,"Het Erf",51.376698,5.356991
+113655,NL,Nederland,Groningen,GR,NULL,NULL,Haren,Haren,"9752 VC",Haren-Zuidwest,Meerkoetweg,53.161678,6.609930
+78508,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Den Haag",Loosduinen,"2552 CD","Kom Loosduinen",Viandenstraat,52.052780,4.236420
+92198,NL,Nederland,Gelderland,GE,NULL,NULL,Winterswijk,NULL,"7101 JJ",Winterswijk-Zuidoost,"De Huininkmaat",51.966724,6.730475
+84700,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Middelharnis,NULL,"3241 GE","Middelharnis centrum","Dirk Bosstraat",51.760014,4.155950
+94769,NL,Nederland,Gelderland,GE,NULL,NULL,Zutphen,Noordveen,"7203 AW","Deventerweg en Polbeek",Deventerachterpad,52.152569,6.208169
+95067,NL,Nederland,Gelderland,GE,NULL,NULL,Brummen,NULL,"6971 AE","Brummen Centrum",Kerkstraat,52.087234,6.158507
+133210,NL,Nederland,Limburg,LI,NULL,NULL,Horst,NULL,"5961 RM","De Afhang",Janssenweg,51.456352,6.038921
+101537,NL,Nederland,Gelderland,GE,NULL,NULL,Weurt,NULL,"6551 DR","Weurt-Buitengebied Zuid",Reekstraat,51.856449,5.790430
+30911,NL,Nederland,Flevoland,FL,NULL,NULL,Almere,"Almere Hout","1349 EV","Overig Almere Hout","Charlotte Bühlerweg",52.330811,5.319052
+107617,NL,Nederland,Gelderland,GE,NULL,NULL,Beek,NULL,"6573 CG",Beek-West,Nesciostraat,51.832588,5.922105
+24396,NL,Nederland,Friesland,FR,NULL,NULL,Sneek,NULL,"8604 VV",Stadsfenne,"De Strikel",53.040215,5.685704
+79010,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Barendrecht,Voordijk,"2993 TP",Voordijk,Noorderhoeve,51.856052,4.505399
+86595,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Wateringen,NULL,"2291 SE","Hofwijk en Oranjehof","Pieter Van Der Plasstraat",52.022778,4.269429
+135432,NL,Nederland,Utrecht,UT,NULL,NULL,Amersfoort,Schuilenburg,"3816 TW",Verdiweg,Otelloplaats,52.149994,5.411728
+109908,NL,Nederland,Gelderland,GE,NULL,NULL,Twello,NULL,"7392 AX",Twello-Zuid,Winterakoniet,52.237137,6.122989
+96597,NL,Nederland,Gelderland,GE,NULL,NULL,Vaassen,NULL,"8172 GT",Woestijnweg,"Van Riebeeckstraat",52.282459,5.959926
+125886,NL,Nederland,Limburg,LI,NULL,NULL,Schinveld,Onderbanken,"6451 DE",NULL,"Pastoor Jacobsstraat",50.964958,5.983487
+128042,NL,Nederland,Limburg,LI,NULL,NULL,Nieuwstadt,NULL,"6118 GJ",Cristina,Randenborgweg,51.035858,5.868638
+90089,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Leiden,Roodenburgerdistrict,"2314 VP",Meerburg,Meerburgerkade,52.152699,4.514835
+61420,NL,Nederland,Overijssel,OV,NULL,NULL,Bornerbroek,NULL,"7627 LL",NULL,Meijerskamp,52.310337,6.653993
+9945,NL,Nederland,Noord-Holland,NH,NULL,NULL,Kudelstaart,NULL,"1433 JC",NULL,Gozewijnstraat,52.231773,4.746123
+113786,NL,Nederland,Groningen,GR,NULL,NULL,Groningen,Noorddijk,"9731 CH",Oosterhoogebrug,Zwanebloemstraat,53.228130,6.597769
+21073,NL,Nederland,Friesland,FR,NULL,NULL,Oosterwolde,NULL,"8431 BP",Oosterwolde-Slatten,Scholdenweg,52.985092,6.283145
+85197,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Zuidland,NULL,"3214 ER",Kerckhoek,Kerckhoek,51.817089,4.263665
+126829,NL,Nederland,Limburg,LI,NULL,NULL,Voerendaal,"Wijk02 Kunrade","6367 BW",Kunrade,Bautseplein,50.879383,5.938915
+95669,NL,Nederland,Gelderland,GE,NULL,NULL,Apeldoorn,Zuid,"7331 NT",Staatsliedenkwartier,"Casper Fagelstraat",52.195625,5.977107
+117996,NL,Nederland,Zeeland,ZE,NULL,NULL,Sint-Maartensdijk,NULL,"4695 JK",NULL,Kluutlaan,51.543392,4.074649
+126902,NL,Nederland,Limburg,LI,NULL,NULL,Wittem,NULL,"6286 BS",Nijswiller,Westhoek,50.808643,5.954846
+99937,NL,Nederland,Gelderland,GE,NULL,NULL,Huissen,NULL,"6852 CV",Zilverkamp,Waterlinie,51.944202,5.931060
+29481,NL,Nederland,Flevoland,FL,NULL,NULL,Almere,NULL,"1326 GG",Parkwijk,Perzikstraat,52.369827,5.251174
+82246,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Spijkenisse,Maaswijk,"3207 VC",Maaswijk-Noordoost,"Annie Van Eesstraat",51.837616,4.363336
+85481,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,"Capelle aan den IJssel",Rivium,"2909 TH",Fascinatio-west,Flatusstraat,51.918419,4.541847
+92621,NL,Nederland,Gelderland,GE,NULL,NULL,Aalten,NULL,"7122 AP","Aalten-kern Zuid 1",Industriestraat,51.919857,6.577223
+57715,NL,Nederland,Overijssel,OV,NULL,NULL,Kampen,NULL,"8261 GN",NULL,Broederstraat,52.558350,5.915509
+133801,NL,Nederland,Limburg,LI,NULL,NULL,Geleen,NULL,"6164 VZ",Geleen-Zuid,Leeuwenhoekstraat,50.955551,5.830188
+30676,NL,Nederland,Flevoland,FL,NULL,NULL,Ens,NULL,"8307 NB",NULL,Chrysant,52.639862,5.835137
+71114,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Dordrecht,Wielwijk,"3317 NH","Van Kinsbergenstraat en omgeving","Reeweg Zuid",51.784184,4.658535
+89806,NL,Nederland,Zuid-Holland,ZH,NULL,NULL,Sassenheim,"Warmond buiten","2171 KW","Warmond buitengebied-Oosteinde",Stationslaan,52.214912,4.514381
